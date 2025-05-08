@@ -1,0 +1,20 @@
+2025-05-07 23:02 - INFO - Starting country extraction process
+2025-05-07 23:02 - INFO - Starting country extraction from Parquet file
+2025-05-07 23:02 - INFO - Found 3 documents to process
+2025-05-07 23:02 - INFO - Loaded 1007 country keywords
+2025-05-07 23:02 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:02 - INFO - Processing document 1/3: language test.pdf
+2025-05-07 23:02 - INFO - Found 4 countries in language test.pdf
+2025-05-07 23:02 - INFO - Countries: Andorra, India, Tonga, Holy See (Vatican City State)
+2025-05-07 23:02 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:02 - INFO - Processing document 2/3: samplepaper.pdf
+2025-05-07 23:02 - INFO - Found 50 countries in samplepaper.pdf
+2025-05-07 23:02 - INFO - Countries: Angola, Albania, Andorra, United Arab Emirates, American Samoa, Austria, Burundi, Belgium, Bangladesh, Bulgaria, Belarus, Brazil, Canada, China, Cameroon, Cook Islands, Colombia, Comoros, Cuba, Czechia, Germany, Dominican Republic, Eritrea, Ethiopia, Georgia, Hong Kong, India, Iceland, Italy, Jamaica, Jordan, Cambodia, Liechtenstein, Luxembourg, Macao, Montenegro, Niger, Norway, Pakistan, Panama, Peru, Paraguay, Palestine, State of, Rwanda, El Salvador, Somalia, Timor-Leste, Tonga, United States, Venezuela, Bolivarian Republic of
+2025-05-07 23:02 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:02 - INFO - Processing document 3/3: samplepaper2.pdf
+2025-05-07 23:02 - INFO - Found 72 countries in samplepaper2.pdf
+2025-05-07 23:02 - INFO - Countries: Albania, Andorra, United Arab Emirates, American Samoa, Austria, Burundi, Belgium, Bangladesh, Bulgaria, Belarus, Brazil, Canada, Chile, China, Congo, The Democratic Republic of the, Colombia, Comoros, Germany, Dominica, Dominican Republic, Ecuador, Ethiopia, Finland, Georgia, Ghana, Gibraltar, Equatorial Guinea, Guyana, Hungary, India, Iran, Islamic Republic of, Iraq, Iceland, Italy, Jamaica, Japan, Kazakhstan, Kenya, Cambodia, Saint Kitts and Nevis, Sri Lanka, Morocco, Madagascar, Mexico, Mali, Myanmar, Mauritania, Mauritius, Malawi, Namibia, Netherlands, Norway, Pakistan, Panama, Peru, Philippines, Poland, Réunion, Rwanda, South Georgia and the South Sandwich Islands, Somalia, Chad, Thailand, Tonga, Türkiye, Ukraine, United States, Holy See (Vatican City State), Virgin Islands, U.S., Viet Nam, Vanuatu, South Africa
+2025-05-07 23:02 - INFO - Saved results to output\country_extraction_results.csv
+2025-05-07 23:02 - INFO - Saved results to output\country_extraction_results.json
+2025-05-07 23:02 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:02 - INFO - Total execution time: 4.12 seconds

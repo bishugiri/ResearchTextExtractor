@@ -114,6 +114,41 @@ def process_pdfs_in_folder():
     else:
         logger.warning("No PDF files processed or no text extracted.")
 
+def extract_text_from_pdfs_in_directory(directory_path: str) -> list[tuple[str, str]]:
+    """
+    Extract text from all PDF files in a directory.
+    
+    Args:
+        directory_path (str): Path to the directory containing PDF files
+        
+    Returns:
+        list[tuple[str, str]]: List of tuples containing (filename, extracted_text)
+    """
+    results = []
+    logger = logging.getLogger('pdf_extractor')
+    
+    try:
+        # Check if directory exists
+        if not os.path.exists(directory_path):
+            logger.error(f"Directory {directory_path} does not exist")
+            return results
+            
+        # Get all PDF files in the directory
+        pdf_files = [f for f in os.listdir(directory_path) if f.lower().endswith('.pdf')]
+        
+        # Extract text from each PDF
+        for pdf_file in pdf_files:
+            pdf_path = os.path.join(directory_path, pdf_file)
+            text, _ = extract_text_from_pdf(pdf_path)
+            if text:
+                results.append((pdf_file, text))
+                
+        return results
+        
+    except Exception as e:
+        logger.error(f"Error processing directory: {e}")
+        return results
+
 if __name__ == "__main__":
     try:
         logger.info("Starting PDF extraction process")

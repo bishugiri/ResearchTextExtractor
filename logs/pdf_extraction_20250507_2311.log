@@ -1,0 +1,147 @@
+2025-05-07 23:11 - INFO - Starting country extraction process
+2025-05-07 23:11 - INFO - Starting country extraction from Parquet file
+2025-05-07 23:11 - INFO - Found 3 documents to process
+2025-05-07 23:11 - INFO - Loaded 1007 country keywords
+2025-05-07 23:11 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:11 - INFO - Processing document 1/3: language test.pdf
+2025-05-07 23:11 - INFO - Found 4 countries in language test.pdf
+2025-05-07 23:11 - INFO - Country frequencies (sorted by frequency):
+2025-05-07 23:11 - INFO -   IND: 5 mentions
+2025-05-07 23:11 - INFO -   AND: 4 mentions
+2025-05-07 23:11 - INFO -   TON: 1 mentions
+2025-05-07 23:11 - INFO -   VAT: 1 mentions
+2025-05-07 23:11 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:11 - INFO - Processing document 2/3: samplepaper.pdf
+2025-05-07 23:11 - INFO - Found 50 countries in samplepaper.pdf
+2025-05-07 23:11 - INFO - Country frequencies (sorted by frequency):
+2025-05-07 23:11 - INFO -   AND: 400 mentions
+2025-05-07 23:11 - INFO -   TON: 289 mentions
+2025-05-07 23:11 - INFO -   BLR: 111 mentions
+2025-05-07 23:11 - INFO -   ISL: 102 mentions
+2025-05-07 23:11 - INFO -   ASM: 68 mentions
+2025-05-07 23:11 - INFO -   ARE: 39 mentions
+2025-05-07 23:11 - INFO -   BEL: 34 mentions
+2025-05-07 23:11 - INFO -   AUT: 24 mentions
+2025-05-07 23:11 - INFO -   BRA: 22 mentions
+2025-05-07 23:11 - INFO -   ALB: 21 mentions
+2025-05-07 23:11 - INFO -   ETH: 21 mentions
+2025-05-07 23:11 - INFO -   DOM: 11 mentions
+2025-05-07 23:11 - INFO -   ITA: 10 mentions
+2025-05-07 23:11 - INFO -   USA: 8 mentions
+2025-05-07 23:11 - INFO -   BGR: 7 mentions
+2025-05-07 23:11 - INFO -   IND: 7 mentions
+2025-05-07 23:11 - INFO -   LIE: 6 mentions
+2025-05-07 23:11 - INFO -   DEU: 5 mentions
+2025-05-07 23:11 - INFO -   JAM: 5 mentions
+2025-05-07 23:11 - INFO -   NOR: 5 mentions
+2025-05-07 23:11 - INFO -   CHN: 4 mentions
+2025-05-07 23:11 - INFO -   COL: 4 mentions
+2025-05-07 23:11 - INFO -   NER: 4 mentions
+2025-05-07 23:11 - INFO -   RWA: 3 mentions
+2025-05-07 23:11 - INFO -   VEN: 3 mentions
+2025-05-07 23:11 - INFO -   AGO: 2 mentions
+2025-05-07 23:11 - INFO -   CUB: 2 mentions
+2025-05-07 23:11 - INFO -   KHM: 2 mentions
+2025-05-07 23:11 - INFO -   MAC: 2 mentions
+2025-05-07 23:11 - INFO -   PER: 2 mentions
+2025-05-07 23:11 - INFO -   PRY: 2 mentions
+2025-05-07 23:11 - INFO -   BDI: 1 mentions
+2025-05-07 23:11 - INFO -   BGD: 1 mentions
+2025-05-07 23:11 - INFO -   CAN: 1 mentions
+2025-05-07 23:11 - INFO -   CMR: 1 mentions
+2025-05-07 23:11 - INFO -   COK: 1 mentions
+2025-05-07 23:11 - INFO -   COM: 1 mentions
+2025-05-07 23:11 - INFO -   CZE: 1 mentions
+2025-05-07 23:11 - INFO -   ERI: 1 mentions
+2025-05-07 23:11 - INFO -   GEO: 1 mentions
+2025-05-07 23:11 - INFO -   HKG: 1 mentions
+2025-05-07 23:11 - INFO -   JOR: 1 mentions
+2025-05-07 23:11 - INFO -   LUX: 1 mentions
+2025-05-07 23:11 - INFO -   MNE: 1 mentions
+2025-05-07 23:11 - INFO -   PAK: 1 mentions
+2025-05-07 23:11 - INFO -   PAN: 1 mentions
+2025-05-07 23:11 - INFO -   PSE: 1 mentions
+2025-05-07 23:11 - INFO -   SLV: 1 mentions
+2025-05-07 23:11 - INFO -   SOM: 1 mentions
+2025-05-07 23:11 - INFO -   TLS: 1 mentions
+2025-05-07 23:11 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:11 - INFO - Processing document 3/3: samplepaper2.pdf
+2025-05-07 23:11 - INFO - Found 72 countries in samplepaper2.pdf
+2025-05-07 23:11 - INFO - Country frequencies (sorted by frequency):
+2025-05-07 23:11 - INFO -   AND: 398 mentions
+2025-05-07 23:11 - INFO -   TON: 188 mentions
+2025-05-07 23:11 - INFO -   ISL: 170 mentions
+2025-05-07 23:11 - INFO -   ARE: 96 mentions
+2025-05-07 23:11 - INFO -   BLR: 77 mentions
+2025-05-07 23:11 - INFO -   BEL: 64 mentions
+2025-05-07 23:11 - INFO -   ASM: 63 mentions
+2025-05-07 23:11 - INFO -   UKR: 63 mentions
+2025-05-07 23:11 - INFO -   ALB: 32 mentions
+2025-05-07 23:11 - INFO -   AUT: 30 mentions
+2025-05-07 23:11 - INFO -   CAN: 28 mentions
+2025-05-07 23:11 - INFO -   NAM: 28 mentions
+2025-05-07 23:11 - INFO -   ITA: 26 mentions
+2025-05-07 23:11 - INFO -   SOM: 12 mentions
+2025-05-07 23:11 - INFO -   DEU: 9 mentions
+2025-05-07 23:11 - INFO -   DOM: 8 mentions
+2025-05-07 23:11 - INFO -   NOR: 8 mentions
+2025-05-07 23:11 - INFO -   MUS: 7 mentions
+2025-05-07 23:11 - INFO -   REU: 6 mentions
+2025-05-07 23:11 - INFO -   BGR: 5 mentions
+2025-05-07 23:11 - INFO -   MRT: 5 mentions
+2025-05-07 23:11 - INFO -   USA: 5 mentions
+2025-05-07 23:11 - INFO -   ECU: 4 mentions
+2025-05-07 23:11 - INFO -   FIN: 4 mentions
+2025-05-07 23:11 - INFO -   ZAF: 4 mentions
+2025-05-07 23:11 - INFO -   BGD: 3 mentions
+2025-05-07 23:11 - INFO -   IND: 3 mentions
+2025-05-07 23:11 - INFO -   PAK: 3 mentions
+2025-05-07 23:11 - INFO -   VUT: 3 mentions
+2025-05-07 23:11 - INFO -   BRA: 2 mentions
+2025-05-07 23:11 - INFO -   COD: 2 mentions
+2025-05-07 23:11 - INFO -   GHA: 2 mentions
+2025-05-07 23:11 - INFO -   MEX: 2 mentions
+2025-05-07 23:11 - INFO -   THA: 2 mentions
+2025-05-07 23:11 - INFO -   BDI: 1 mentions
+2025-05-07 23:11 - INFO -   CHL: 1 mentions
+2025-05-07 23:11 - INFO -   CHN: 1 mentions
+2025-05-07 23:11 - INFO -   COL: 1 mentions
+2025-05-07 23:11 - INFO -   COM: 1 mentions
+2025-05-07 23:11 - INFO -   DMA: 1 mentions
+2025-05-07 23:11 - INFO -   ETH: 1 mentions
+2025-05-07 23:11 - INFO -   GEO: 1 mentions
+2025-05-07 23:11 - INFO -   GIB: 1 mentions
+2025-05-07 23:11 - INFO -   GNQ: 1 mentions
+2025-05-07 23:11 - INFO -   GUY: 1 mentions
+2025-05-07 23:11 - INFO -   HUN: 1 mentions
+2025-05-07 23:11 - INFO -   IRN: 1 mentions
+2025-05-07 23:11 - INFO -   IRQ: 1 mentions
+2025-05-07 23:11 - INFO -   JAM: 1 mentions
+2025-05-07 23:11 - INFO -   JPN: 1 mentions
+2025-05-07 23:11 - INFO -   KAZ: 1 mentions
+2025-05-07 23:11 - INFO -   KEN: 1 mentions
+2025-05-07 23:11 - INFO -   KHM: 1 mentions
+2025-05-07 23:11 - INFO -   KNA: 1 mentions
+2025-05-07 23:11 - INFO -   LKA: 1 mentions
+2025-05-07 23:11 - INFO -   MAR: 1 mentions
+2025-05-07 23:11 - INFO -   MDG: 1 mentions
+2025-05-07 23:11 - INFO -   MLI: 1 mentions
+2025-05-07 23:11 - INFO -   MMR: 1 mentions
+2025-05-07 23:11 - INFO -   MWI: 1 mentions
+2025-05-07 23:11 - INFO -   NLD: 1 mentions
+2025-05-07 23:11 - INFO -   PAN: 1 mentions
+2025-05-07 23:11 - INFO -   PER: 1 mentions
+2025-05-07 23:11 - INFO -   PHL: 1 mentions
+2025-05-07 23:11 - INFO -   POL: 1 mentions
+2025-05-07 23:11 - INFO -   RWA: 1 mentions
+2025-05-07 23:11 - INFO -   SGS: 1 mentions
+2025-05-07 23:11 - INFO -   TCD: 1 mentions
+2025-05-07 23:11 - INFO -   TUR: 1 mentions
+2025-05-07 23:11 - INFO -   VAT: 1 mentions
+2025-05-07 23:11 - INFO -   VIR: 1 mentions
+2025-05-07 23:11 - INFO -   VNM: 1 mentions
+2025-05-07 23:11 - INFO - Saved results to output\country_extraction_results.csv
+2025-05-07 23:11 - INFO - Saved results to output\country_extraction_results.json
+2025-05-07 23:11 - INFO - Created detailed log file at logs\country_extraction_20250507_2311.log
+2025-05-07 23:11 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:11 - INFO - Total execution time: 10.27 seconds

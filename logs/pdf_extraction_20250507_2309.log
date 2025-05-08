@@ -1,0 +1,146 @@
+2025-05-07 23:09 - INFO - Starting country extraction process
+2025-05-07 23:09 - INFO - Starting country extraction from Parquet file
+2025-05-07 23:09 - INFO - Found 3 documents to process
+2025-05-07 23:09 - INFO - Loaded 1007 country keywords
+2025-05-07 23:09 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:09 - INFO - Processing document 1/3: language test.pdf
+2025-05-07 23:09 - INFO - Found 4 countries in language test.pdf
+2025-05-07 23:09 - INFO - Countries and their frequencies:
+2025-05-07 23:09 - INFO -   India: 5 mentions
+2025-05-07 23:09 - INFO -   Andorra: 4 mentions
+2025-05-07 23:09 - INFO -   Tonga: 1 mentions
+2025-05-07 23:09 - INFO -   Holy See (Vatican City State): 1 mentions
+2025-05-07 23:09 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:09 - INFO - Processing document 2/3: samplepaper.pdf
+2025-05-07 23:09 - INFO - Found 50 countries in samplepaper.pdf
+2025-05-07 23:09 - INFO - Countries and their frequencies:
+2025-05-07 23:09 - INFO -   Andorra: 400 mentions
+2025-05-07 23:09 - INFO -   Tonga: 289 mentions
+2025-05-07 23:09 - INFO -   Belarus: 111 mentions
+2025-05-07 23:09 - INFO -   Iceland: 102 mentions
+2025-05-07 23:09 - INFO -   American Samoa: 68 mentions
+2025-05-07 23:09 - INFO -   United Arab Emirates: 39 mentions
+2025-05-07 23:09 - INFO -   Belgium: 34 mentions
+2025-05-07 23:09 - INFO -   Austria: 24 mentions
+2025-05-07 23:09 - INFO -   Brazil: 22 mentions
+2025-05-07 23:09 - INFO -   Albania: 21 mentions
+2025-05-07 23:09 - INFO -   Ethiopia: 21 mentions
+2025-05-07 23:09 - INFO -   Dominican Republic: 11 mentions
+2025-05-07 23:09 - INFO -   Italy: 10 mentions
+2025-05-07 23:09 - INFO -   United States: 8 mentions
+2025-05-07 23:09 - INFO -   Bulgaria: 7 mentions
+2025-05-07 23:09 - INFO -   India: 7 mentions
+2025-05-07 23:09 - INFO -   Liechtenstein: 6 mentions
+2025-05-07 23:09 - INFO -   Germany: 5 mentions
+2025-05-07 23:09 - INFO -   Jamaica: 5 mentions
+2025-05-07 23:09 - INFO -   Norway: 5 mentions
+2025-05-07 23:09 - INFO -   China: 4 mentions
+2025-05-07 23:09 - INFO -   Colombia: 4 mentions
+2025-05-07 23:09 - INFO -   Niger: 4 mentions
+2025-05-07 23:09 - INFO -   Rwanda: 3 mentions
+2025-05-07 23:09 - INFO -   Venezuela, Bolivarian Republic of: 3 mentions
+2025-05-07 23:09 - INFO -   Angola: 2 mentions
+2025-05-07 23:09 - INFO -   Cuba: 2 mentions
+2025-05-07 23:09 - INFO -   Cambodia: 2 mentions
+2025-05-07 23:09 - INFO -   Macao: 2 mentions
+2025-05-07 23:09 - INFO -   Peru: 2 mentions
+2025-05-07 23:09 - INFO -   Paraguay: 2 mentions
+2025-05-07 23:09 - INFO -   Burundi: 1 mentions
+2025-05-07 23:09 - INFO -   Bangladesh: 1 mentions
+2025-05-07 23:09 - INFO -   Canada: 1 mentions
+2025-05-07 23:09 - INFO -   Cameroon: 1 mentions
+2025-05-07 23:09 - INFO -   Cook Islands: 1 mentions
+2025-05-07 23:09 - INFO -   Comoros: 1 mentions
+2025-05-07 23:09 - INFO -   Czechia: 1 mentions
+2025-05-07 23:09 - INFO -   Eritrea: 1 mentions
+2025-05-07 23:09 - INFO -   Georgia: 1 mentions
+2025-05-07 23:09 - INFO -   Hong Kong: 1 mentions
+2025-05-07 23:09 - INFO -   Jordan: 1 mentions
+2025-05-07 23:09 - INFO -   Luxembourg: 1 mentions
+2025-05-07 23:09 - INFO -   Montenegro: 1 mentions
+2025-05-07 23:09 - INFO -   Pakistan: 1 mentions
+2025-05-07 23:09 - INFO -   Panama: 1 mentions
+2025-05-07 23:09 - INFO -   Palestine, State of: 1 mentions
+2025-05-07 23:09 - INFO -   El Salvador: 1 mentions
+2025-05-07 23:09 - INFO -   Somalia: 1 mentions
+2025-05-07 23:09 - INFO -   Timor-Leste: 1 mentions
+2025-05-07 23:09 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:09 - INFO - Processing document 3/3: samplepaper2.pdf
+2025-05-07 23:09 - INFO - Found 72 countries in samplepaper2.pdf
+2025-05-07 23:09 - INFO - Countries and their frequencies:
+2025-05-07 23:09 - INFO -   Andorra: 398 mentions
+2025-05-07 23:09 - INFO -   Tonga: 188 mentions
+2025-05-07 23:09 - INFO -   Iceland: 170 mentions
+2025-05-07 23:09 - INFO -   United Arab Emirates: 96 mentions
+2025-05-07 23:09 - INFO -   Belarus: 77 mentions
+2025-05-07 23:09 - INFO -   Belgium: 64 mentions
+2025-05-07 23:09 - INFO -   American Samoa: 63 mentions
+2025-05-07 23:09 - INFO -   Ukraine: 63 mentions
+2025-05-07 23:09 - INFO -   Albania: 32 mentions
+2025-05-07 23:09 - INFO -   Austria: 30 mentions
+2025-05-07 23:09 - INFO -   Canada: 28 mentions
+2025-05-07 23:09 - INFO -   Namibia: 28 mentions
+2025-05-07 23:09 - INFO -   Italy: 26 mentions
+2025-05-07 23:09 - INFO -   Somalia: 12 mentions
+2025-05-07 23:09 - INFO -   Germany: 9 mentions
+2025-05-07 23:09 - INFO -   Dominican Republic: 8 mentions
+2025-05-07 23:09 - INFO -   Norway: 8 mentions
+2025-05-07 23:09 - INFO -   Mauritius: 7 mentions
+2025-05-07 23:09 - INFO -   Réunion: 6 mentions
+2025-05-07 23:09 - INFO -   Bulgaria: 5 mentions
+2025-05-07 23:09 - INFO -   Mauritania: 5 mentions
+2025-05-07 23:09 - INFO -   United States: 5 mentions
+2025-05-07 23:09 - INFO -   Ecuador: 4 mentions
+2025-05-07 23:09 - INFO -   Finland: 4 mentions
+2025-05-07 23:09 - INFO -   South Africa: 4 mentions
+2025-05-07 23:09 - INFO -   Bangladesh: 3 mentions
+2025-05-07 23:09 - INFO -   India: 3 mentions
+2025-05-07 23:09 - INFO -   Pakistan: 3 mentions
+2025-05-07 23:09 - INFO -   Vanuatu: 3 mentions
+2025-05-07 23:09 - INFO -   Brazil: 2 mentions
+2025-05-07 23:09 - INFO -   Congo, The Democratic Republic of the: 2 mentions
+2025-05-07 23:09 - INFO -   Ghana: 2 mentions
+2025-05-07 23:09 - INFO -   Mexico: 2 mentions
+2025-05-07 23:09 - INFO -   Thailand: 2 mentions
+2025-05-07 23:09 - INFO -   Burundi: 1 mentions
+2025-05-07 23:09 - INFO -   Chile: 1 mentions
+2025-05-07 23:09 - INFO -   China: 1 mentions
+2025-05-07 23:09 - INFO -   Colombia: 1 mentions
+2025-05-07 23:09 - INFO -   Comoros: 1 mentions
+2025-05-07 23:09 - INFO -   Dominica: 1 mentions
+2025-05-07 23:09 - INFO -   Ethiopia: 1 mentions
+2025-05-07 23:09 - INFO -   Georgia: 1 mentions
+2025-05-07 23:09 - INFO -   Gibraltar: 1 mentions
+2025-05-07 23:09 - INFO -   Equatorial Guinea: 1 mentions
+2025-05-07 23:09 - INFO -   Guyana: 1 mentions
+2025-05-07 23:09 - INFO -   Hungary: 1 mentions
+2025-05-07 23:09 - INFO -   Iran, Islamic Republic of: 1 mentions
+2025-05-07 23:09 - INFO -   Iraq: 1 mentions
+2025-05-07 23:09 - INFO -   Jamaica: 1 mentions
+2025-05-07 23:09 - INFO -   Japan: 1 mentions
+2025-05-07 23:09 - INFO -   Kazakhstan: 1 mentions
+2025-05-07 23:09 - INFO -   Kenya: 1 mentions
+2025-05-07 23:09 - INFO -   Cambodia: 1 mentions
+2025-05-07 23:09 - INFO -   Saint Kitts and Nevis: 1 mentions
+2025-05-07 23:09 - INFO -   Sri Lanka: 1 mentions
+2025-05-07 23:09 - INFO -   Morocco: 1 mentions
+2025-05-07 23:09 - INFO -   Madagascar: 1 mentions
+2025-05-07 23:09 - INFO -   Mali: 1 mentions
+2025-05-07 23:09 - INFO -   Myanmar: 1 mentions
+2025-05-07 23:09 - INFO -   Malawi: 1 mentions
+2025-05-07 23:09 - INFO -   Netherlands: 1 mentions
+2025-05-07 23:09 - INFO -   Panama: 1 mentions
+2025-05-07 23:09 - INFO -   Peru: 1 mentions
+2025-05-07 23:09 - INFO -   Philippines: 1 mentions
+2025-05-07 23:09 - INFO -   Poland: 1 mentions
+2025-05-07 23:09 - INFO -   Rwanda: 1 mentions
+2025-05-07 23:09 - INFO -   South Georgia and the South Sandwich Islands: 1 mentions
+2025-05-07 23:09 - INFO -   Chad: 1 mentions
+2025-05-07 23:09 - INFO -   Türkiye: 1 mentions
+2025-05-07 23:09 - INFO -   Holy See (Vatican City State): 1 mentions
+2025-05-07 23:09 - INFO -   Virgin Islands, U.S.: 1 mentions
+2025-05-07 23:09 - INFO -   Viet Nam: 1 mentions
+2025-05-07 23:09 - INFO - Saved results to output\country_extraction_results.csv
+2025-05-07 23:09 - INFO - Saved results to output\country_extraction_results.json
+2025-05-07 23:09 - INFO - --------------------------------------------------------------------------------
+2025-05-07 23:09 - INFO - Total execution time: 10.62 seconds
