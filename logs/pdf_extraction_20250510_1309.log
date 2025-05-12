@@ -1,0 +1,32 @@
+2025-05-10 13:09 - INFO - Starting PDF extraction process
+2025-05-10 13:09 - INFO - Starting PDF processing workflow
+2025-05-10 13:09 - INFO - Found 5 PDF files to process
+2025-05-10 13:09 - INFO - Processing PDF 1/5: countryspellcheck.pdf
+2025-05-10 13:09 - INFO - Starting extraction for input\countryspellcheck.pdf
+2025-05-10 13:09 - INFO - Extraction completed for input\countryspellcheck.pdf
+2025-05-10 13:09 - INFO - Successfully processed countryspellcheck.pdf
+2025-05-10 13:09 - INFO - --------------------------------------------------------------------------------
+2025-05-10 13:09 - INFO - Processing PDF 2/5: language test.pdf
+2025-05-10 13:09 - INFO - Starting extraction for input\language test.pdf
+2025-05-10 13:09 - INFO - Extraction completed for input\language test.pdf
+2025-05-10 13:09 - INFO - Successfully processed language test.pdf
+2025-05-10 13:09 - INFO - --------------------------------------------------------------------------------
+2025-05-10 13:09 - INFO - Processing PDF 3/5: length test.pdf
+2025-05-10 13:09 - INFO - Starting extraction for input\length test.pdf
+2025-05-10 13:09 - INFO - Extraction completed for input\length test.pdf
+2025-05-10 13:09 - WARNING - Skipping length test.pdf: less than 50 words (17)
+2025-05-10 13:09 - INFO - --------------------------------------------------------------------------------
+2025-05-10 13:09 - INFO - Processing PDF 4/5: samplepaper.pdf
+2025-05-10 13:09 - INFO - Starting extraction for input\samplepaper.pdf
+2025-05-10 13:09 - INFO - Extraction completed for input\samplepaper.pdf
+2025-05-10 13:09 - INFO - Successfully processed samplepaper.pdf
+2025-05-10 13:09 - INFO - --------------------------------------------------------------------------------
+2025-05-10 13:09 - INFO - Processing PDF 5/5: samplepaper2.pdf
+2025-05-10 13:09 - INFO - Starting extraction for input\samplepaper2.pdf
+2025-05-10 13:09 - INFO - Extraction completed for input\samplepaper2.pdf
+2025-05-10 13:09 - INFO - Successfully processed samplepaper2.pdf
+2025-05-10 13:09 - INFO - --------------------------------------------------------------------------------
+2025-05-10 13:09 - INFO - Saved 4 records to output\extracted_data.parquet
+2025-05-10 13:09 - INFO - Saved 4 records to output\extracted_data.json
+2025-05-10 13:09 - INFO - --------------------------------------------------------------------------------
+2025-05-10 13:09 - INFO - Total execution time: 11.59 seconds

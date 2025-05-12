@@ -1,0 +1,50 @@
+2025-05-09 12:28 - INFO - Starting country extraction process
+2025-05-09 12:28 - INFO - Starting country extraction from JSON file using keyword algorithm
+2025-05-09 12:28 - INFO - Found 4 total documents
+2025-05-09 12:28 - INFO - Found 4 English documents to process
+2025-05-09 12:28 - INFO - --------------------------------------------------------------------------------
+2025-05-09 12:28 - INFO - Processing document 1/4: countryspellcheck.pdf
+2025-05-09 12:28 - INFO - Found 1 countries in countryspellcheck.pdf
+2025-05-09 12:28 - INFO - Country frequencies (sorted by frequency):
+2025-05-09 12:28 - INFO -   ESP: 1 mentions
+2025-05-09 12:28 - INFO - --------------------------------------------------------------------------------
+2025-05-09 12:28 - INFO - Processing document 2/4: language test.pdf
+2025-05-09 12:28 - INFO - Found 0 countries in language test.pdf
+2025-05-09 12:28 - INFO - Country frequencies (sorted by frequency):
+2025-05-09 12:28 - INFO - --------------------------------------------------------------------------------
+2025-05-09 12:28 - INFO - Processing document 3/4: samplepaper.pdf
+2025-05-09 12:28 - INFO - Found 9 countries in samplepaper.pdf
+2025-05-09 12:28 - INFO - Country frequencies (sorted by frequency):
+2025-05-09 12:28 - INFO -   BRA: 9 mentions
+2025-05-09 12:28 - INFO -   IND: 5 mentions
+2025-05-09 12:28 - INFO -   CHN: 4 mentions
+2025-05-09 12:28 - INFO -   JAM: 4 mentions
+2025-05-09 12:28 - INFO -   RWA: 2 mentions
+2025-05-09 12:28 - INFO -   COL: 2 mentions
+2025-05-09 12:28 - INFO -   PER: 2 mentions
+2025-05-09 12:28 - INFO -   VEN: 2 mentions
+2025-05-09 12:28 - INFO -   NER: 2 mentions
+2025-05-09 12:28 - INFO - --------------------------------------------------------------------------------
+2025-05-09 12:28 - INFO - Processing document 4/4: samplepaper2.pdf
+2025-05-09 12:28 - INFO - Found 16 countries in samplepaper2.pdf
+2025-05-09 12:28 - INFO - Country frequencies (sorted by frequency):
+2025-05-09 12:28 - INFO -   BGD: 3 mentions
+2025-05-09 12:28 - INFO -   PAK: 3 mentions
+2025-05-09 12:28 - INFO -   MEX: 2 mentions
+2025-05-09 12:28 - INFO -   IND: 2 mentions
+2025-05-09 12:28 - INFO -   GHA: 2 mentions
+2025-05-09 12:28 - INFO -   ECU: 1 mentions
+2025-05-09 12:28 - INFO -   CHN: 1 mentions
+2025-05-09 12:28 - INFO -   BRA: 1 mentions
+2025-05-09 12:28 - INFO -   CHL: 1 mentions
+2025-05-09 12:28 - INFO -   COL: 1 mentions
+2025-05-09 12:28 - INFO -   ETH: 1 mentions
+2025-05-09 12:28 - INFO -   KAZ: 1 mentions
+2025-05-09 12:28 - INFO -   KEN: 1 mentions
+2025-05-09 12:28 - INFO -   PHL: 1 mentions
+2025-05-09 12:28 - INFO -   POL: 1 mentions
+2025-05-09 12:28 - INFO -   RWA: 1 mentions
+2025-05-09 12:28 - INFO - Saved results to output\country_extraction_results_keyword.csv
+2025-05-09 12:28 - INFO - Saved results to output\country_extraction_results_keyword.json
+2025-05-09 12:28 - INFO - Created detailed log file at logs\country_extraction_keyword_20250509_1228.log
+2025-05-09 12:28 - INFO - Total execution time: 11.49 seconds

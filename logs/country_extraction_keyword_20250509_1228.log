@@ -1,0 +1,60 @@
+Country Extraction Results (English Documents Only) - Using keyword algorithm
+==================================================
+
+Document: countryspellcheck.pdf
+--------------------------------------------------
+Total unique countries: 1
+Total country mentions: 1
+
+Country frequencies:
+  ESP: 1 mentions
+
+Document: language test.pdf
+--------------------------------------------------
+Total unique countries: 0
+Total country mentions: 0
+
+Country frequencies:
+
+Document: samplepaper.pdf
+--------------------------------------------------
+Total unique countries: 9
+Total country mentions: 32
+
+Country frequencies:
+  BRA: 9 mentions
+  IND: 5 mentions
+  CHN: 4 mentions
+  JAM: 4 mentions
+  RWA: 2 mentions
+  COL: 2 mentions
+  PER: 2 mentions
+  VEN: 2 mentions
+  NER: 2 mentions
+
+Document: samplepaper2.pdf
+--------------------------------------------------
+Total unique countries: 16
+Total country mentions: 23
+
+Country frequencies:
+  BGD: 3 mentions
+  PAK: 3 mentions
+  MEX: 2 mentions
+  IND: 2 mentions
+  GHA: 2 mentions
+  ECU: 1 mentions
+  CHN: 1 mentions
+  BRA: 1 mentions
+  CHL: 1 mentions
+  COL: 1 mentions
+  ETH: 1 mentions
+  KAZ: 1 mentions
+  KEN: 1 mentions
+  PHL: 1 mentions
+  POL: 1 mentions
+  RWA: 1 mentions
+
+
+End of Report
+==================================================
