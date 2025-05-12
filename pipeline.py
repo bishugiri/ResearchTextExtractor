@@ -84,52 +84,23 @@ def find_countries_keyword_based(text: str) -> List[Dict[str, str]]:
     
     return found_countries
 
-def find_countries_countryguess(text: str) -> List[Dict[str, str]]:
-    """
-    Find countries in text using countryguess package.
-    Returns a list of found countries with their ISO3 codes.
-    """
-    found_countries = []
-    words = text.split()  # Split text into words
-    
-    # Track frequencies for each country
-    country_frequencies = {}
-    
-    for word in words:
-        # Try to guess country from the word
-        result = guess_country(word)
-        if result and result.get('iso3'):
-            iso3_code = result['iso3']
-            if iso3_code not in country_frequencies:
-                country_frequencies[iso3_code] = 0
-            country_frequencies[iso3_code] += 1
-    
-    # Convert frequencies to list of country information
-    for iso3_code, frequency in country_frequencies.items():
-        found_countries.append({
-            'code': iso3_code,
-            'frequency': frequency
-        })
-    
-    # Sort countries by frequency (highest to lowest)
-    found_countries.sort(key=lambda x: x['frequency'], reverse=True)
-    
-    return found_countries
-
 def find_countries_gliner_based(text: str, model: GLiNER) -> List[Dict[str, str]]:
     """
-    Find countries in text using GLiNER model to identify geographical entities.
+    Find countries in text using GLiNER model to identify locations,
+    then process them through countryguess to get ISO3 codes.
+    Only includes locations with confidence score >= 0.9.
     Returns a list of found countries with their ISO3 codes.
     """
     found_countries = []
     country_frequencies = {}
     
-    # Use GLiNER to predict entities
-    entities = model.predict_entities(text, ["countries"])
+    # Use GLiNER to predict entities (looking for locations)
+    entities = model.predict_entities(text, ["location"])
     
     # Process each entity found
     for entity in entities:
-        if entity['label'] == 'countries':
+        # Only process entities with high confidence (>= 0.9)
+        if entity['label'] == 'location' and entity.get('score', 0) >= 0.9:
             # Try to get ISO3 code using countryguess
             result = guess_country(entity['text'])
             if result and result.get('iso3'):
@@ -137,6 +108,7 @@ def find_countries_gliner_based(text: str, model: GLiNER) -> List[Dict[str, str]
                 if iso3_code not in country_frequencies:
                     country_frequencies[iso3_code] = 0
                 country_frequencies[iso3_code] += 1
+                logger.debug(f"Found country {iso3_code} from location '{entity['text']}' with confidence {entity['score']:.2f}")
     
     # Convert frequencies to list of country information
     for iso3_code, frequency in country_frequencies.items():
@@ -151,22 +123,20 @@ def find_countries_gliner_based(text: str, model: GLiNER) -> List[Dict[str, str]
     return found_countries
 
 @flow
-def process_json_file(algorithm: str = "countryguess"):
+def process_json_file(algorithm: str = "keyword"):
     """
     Process the JSON file and extract countries from the text column.
     Only processes documents with language "en".
     
     Args:
         algorithm (str): The algorithm to use for country extraction.
-            Options: "keyword", "countryguess", or "gliner" (default: "countryguess")
+            Options: "keyword" or "gliner" (default: "keyword")
     """
     logger.info(f"Starting country extraction from JSON file using {algorithm} algorithm")
     
     # Select the appropriate algorithm
     if algorithm.lower() == "keyword":
         find_countries_func = find_countries_keyword_based
-    elif algorithm.lower() == "countryguess":
-        find_countries_func = find_countries_countryguess
     elif algorithm.lower() == "gliner":
         # Load GLiNER model
         try:
@@ -177,8 +147,8 @@ def process_json_file(algorithm: str = "countryguess"):
             logger.error(f"Error loading GLiNER model: {str(e)}")
             return
     else:
-        logger.error(f"Invalid algorithm specified: {algorithm}. Using countryguess as default.")
-        find_countries_func = find_countries_countryguess
+        logger.error(f"Invalid algorithm specified: {algorithm}. Using keyword as default.")
+        find_countries_func = find_countries_keyword_based
     
     # Read the JSON file with proper encoding
     json_path = os.path.join("output", "extracted_data.json")
@@ -266,7 +236,7 @@ def process_json_file(algorithm: str = "countryguess"):
 if __name__ == "__main__":
     start_time = time.time()
     logger.info("Starting country extraction process")
-    # You can change the algorithm here: "keyword", "countryguess", or "gliner"
+    # You can change the algorithm here: "keyword" or "gliner"
     process_json_file(algorithm="gliner")
     end_time = time.time()
     logger.info(f"Total execution time: {end_time - start_time:.2f} seconds") 
