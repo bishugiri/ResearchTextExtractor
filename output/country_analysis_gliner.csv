@@ -1,0 +1,663 @@
+document,page,country,iso3,frequency
+OCR-D25260752.json,4,United States,USA,1
+OCR-D25260752.json,5,United Kingdom,GBR,1
+OCR-D25260752.json,34,France,FRA,1
+OCR-D25260752.json,35,Mali,MLI,1
+OCR-D697028.json,0,Mexico,MEX,1
+OCR-D697028.json,12,United States,USA,1
+OCR-D697028.json,13,Argentina,ARG,1
+OCR-D697028.json,13,Thailand,THA,1
+OCR-D697028.json,13,Mexico,MEX,1
+OCR-D697028.json,13,Philippines,PHL,1
+OCR-D697028.json,13,Malaysia,MYS,1
+OCR-D697028.json,13,Peru,PER,1
+OCR-D697028.json,14,DR Congo,,1
+OCR-D697028.json,14,Argentina,ARG,1
+OCR-D697028.json,14,Brazil,BRA,1
+OCR-D697028.json,14,Jordan,JOR,1
+OCR-D697028.json,21,United States,USA,1
+OCR-D697028.json,28,United States,USA,1
+OCR-D697028.json,31,United States,USA,1
+OCR-D697028.json,32,Argentina,ARG,1
+OCR-D697028.json,32,Ecuador,ECU,1
+OCR-D697028.json,32,Pakistan,PAK,1
+OCR-D697028.json,32,Tunisia,TUN,1
+OCR-D697028.json,32,Syria,,1
+OCR-D697028.json,32,Paraguay,PRY,1
+OCR-D697028.json,32,Colombia,COL,1
+OCR-D697028.json,32,DR Congo,,1
+OCR-D697028.json,32,Indonesia,IDN,1
+OCR-D697028.json,32,Venezuela,,1
+OCR-D697028.json,32,South Korea,,1
+OCR-D697028.json,32,Philippines,PHL,1
+OCR-D697028.json,37,United States,USA,1
+OCR-D697028.json,40,Portugal,PRT,1
+OCR-D697028.json,40,China,CHN,1
+OCR-D32875091.json,0,Indonesia,IDN,1
+OCR-D32875091.json,5,Indonesia,IDN,1
+OCR-D32875091.json,6,Indonesia,IDN,1
+OCR-D32875091.json,12,Indonesia,IDN,1
+OCR-D32875091.json,21,Indonesia,IDN,1
+OCR-D32875091.json,26,Indonesia,IDN,1
+OCR-D32875091.json,30,Indonesia,IDN,1
+OCR-D32875091.json,30,United Kingdom,GBR,1
+OCR-D32875091.json,31,United States,USA,1
+OCR-D32875091.json,31,India,IND,1
+OCR-D32875091.json,31,Burkina Faso,BFA,1
+OCR-D32875091.json,31,Indonesia,IDN,1
+OCR-D32875091.json,31,Romania,ROU,1
+OCR-D32875091.json,42,Indonesia,IDN,1
+OCR-D32875091.json,43,Indonesia,IDN,1
+OCR-D32875091.json,57,Indonesia,IDN,1
+OCR-D32875091.json,74,Indonesia,IDN,1
+OCR-D32875091.json,78,Indonesia,IDN,1
+OCR-D32875091.json,80,Indonesia,IDN,1
+OCR-D5796629.json,0,Guatemala,GTM,1
+OCR-D5796629.json,1,Guatemala,GTM,1
+OCR-D5796629.json,2,Guatemala,GTM,1
+OCR-D5796629.json,3,Guatemala,GTM,1
+OCR-D5796629.json,4,Guatemala,GTM,1
+OCR-D5796629.json,5,Guatemala,GTM,1
+OCR-D5796629.json,6,Guatemala,GTM,1
+OCR-D5796629.json,8,Guatemala,GTM,1
+OCR-D5796629.json,9,Guatemala,GTM,1
+OCR-D5796629.json,10,Guatemala,GTM,1
+OCR-D5796629.json,11,Mexico,MEX,1
+OCR-D5796629.json,12,Guatemala,GTM,1
+OCR-D5796629.json,15,United States,USA,1
+OCR-D5796629.json,16,Chile,CHL,1
+OCR-D5796629.json,16,India,IND,1
+OCR-D5796629.json,17,United States,USA,1
+OCR-D5796629.json,19,Guatemala,GTM,1
+OCR-D5796629.json,20,Guatemala,GTM,1
+OCR-D5796629.json,21,Guatemala,GTM,1
+OCR-D5796629.json,23,Guatemala,GTM,1
+OCR-D5796629.json,24,Guatemala,GTM,1
+OCR-D5796629.json,25,Guatemala,GTM,1
+OCR-D5796629.json,26,Guatemala,GTM,1
+OCR-D5796629.json,26,El Salvador,SLV,1
+OCR-D5796629.json,27,Guatemala,GTM,1
+OCR-D5796629.json,28,Guatemala,GTM,1
+OCR-D5796629.json,29,Guatemala,GTM,1
+OCR-D5796629.json,30,Guatemala,GTM,1
+OCR-D5796629.json,31,Guatemala,GTM,1
+OCR-D5796629.json,32,Guatemala,GTM,1
+OCR-D5796629.json,33,Guatemala,GTM,1
+OCR-D5796629.json,34,Guatemala,GTM,1
+OCR-D5796629.json,36,Guatemala,GTM,1
+OCR-D5796629.json,38,Guatemala,GTM,1
+OCR-D5796629.json,39,Guatemala,GTM,1
+OCR-D5796629.json,41,Guatemala,GTM,1
+OCR-D5796629.json,43,Guatemala,GTM,1
+OCR-D5796629.json,44,Guatemala,GTM,1
+OCR-D5796629.json,47,Guatemala,GTM,1
+OCR-D5796629.json,48,Guatemala,GTM,1
+OCR-D5796629.json,49,Guatemala,GTM,1
+OCR-D5796629.json,50,Guatemala,GTM,1
+OCR-D5796629.json,52,Guatemala,GTM,1
+OCR-D5796629.json,53,Guatemala,GTM,1
+OCR-D5796629.json,54,Guatemala,GTM,1
+OCR-D5796629.json,55,Guatemala,GTM,1
+OCR-D5796629.json,56,Guatemala,GTM,1
+OCR-D5796629.json,57,Guatemala,GTM,1
+OCR-D5796629.json,59,Guatemala,GTM,1
+OCR-D5796629.json,61,Guatemala,GTM,1
+OCR-D5796629.json,62,Guatemala,GTM,1
+OCR-D5796629.json,63,El Salvador,SLV,1
+OCR-D5796629.json,64,Guatemala,GTM,1
+OCR-D5796629.json,66,Guatemala,GTM,1
+OCR-D5796629.json,67,Guatemala,GTM,1
+OCR-D5796629.json,68,Guatemala,GTM,1
+OCR-D5796629.json,69,Guatemala,GTM,1
+OCR-D5796629.json,71,Guatemala,GTM,1
+OCR-D5796629.json,73,Guatemala,GTM,1
+OCR-D5796629.json,74,Guatemala,GTM,1
+OCR-D5796629.json,75,Guatemala,GTM,1
+OCR-D5796629.json,76,Guatemala,GTM,1
+OCR-D5796629.json,77,Guatemala,GTM,1
+OCR-D5796629.json,78,Nicaragua,NIC,1
+OCR-D5796629.json,78,Mexico,MEX,1
+OCR-D5796629.json,78,Guatemala,GTM,1
+OCR-D5796629.json,78,El Salvador,SLV,1
+OCR-D5796629.json,78,Honduras,HND,1
+OCR-D5796629.json,79,Chile,CHL,1
+OCR-D5796629.json,79,Guatemala,GTM,1
+OCR-D13576464.json,1,United States,USA,1
+OCR-D13576464.json,3,Japan,JPN,1
+OCR-D13576464.json,3,Australia,AUS,1
+OCR-D13576464.json,3,United States,USA,1
+OCR-D13576464.json,3,Russia,,1
+OCR-D13576464.json,3,Mexico,MEX,1
+OCR-D13576464.json,5,Japan,JPN,1
+OCR-D13576464.json,14,United States,USA,1
+OCR-D34385584.json,0,China,CHN,1
+OCR-D34385584.json,1,China,CHN,1
+OCR-D34385584.json,2,China,CHN,1
+OCR-D34385584.json,4,China,CHN,1
+OCR-D34385584.json,7,China,CHN,1
+OCR-D34385584.json,8,China,CHN,1
+OCR-D34385584.json,10,China,CHN,1
+OCR-D34385584.json,11,China,CHN,1
+OCR-D34385584.json,20,China,CHN,1
+OCR-D34385584.json,23,Thailand,THA,1
+OCR-D34385584.json,23,China,CHN,1
+OCR-D34385584.json,28,China,CHN,1
+OCR-D34385584.json,34,Japan,JPN,1
+OCR-D30352919.json,9,China,CHN,1
+OCR-D30352919.json,10,Russian Federation,RUS,1
+OCR-D30352919.json,11,China,CHN,1
+OCR-D30352919.json,12,Poland,POL,1
+OCR-D30352919.json,12,China,CHN,1
+OCR-D30352919.json,12,United States,USA,1
+OCR-D30352919.json,12,Hungary,HUN,1
+OCR-D30352919.json,12,Russia,,1
+OCR-D30352919.json,12,France,FRA,1
+OCR-D30352919.json,12,Peru,PER,1
+OCR-D30352919.json,21,North Korea,,1
+OCR-D30352919.json,22,Somalia,SOM,1
+OCR-D30352919.json,22,Saudi Arabia,SAU,1
+OCR-D30352919.json,22,Türkiye,TUR,1
+OCR-D30352919.json,22,South Africa,ZAF,1
+OCR-D30352919.json,22,Russia,,1
+OCR-D30352919.json,22,Rwanda,RWA,1
+OCR-D30352919.json,23,Peru,PER,1
+OCR-D30352919.json,23,Poland,POL,1
+OCR-D30352919.json,23,Hungary,HUN,1
+OCR-D30352919.json,23,Czechia,CZE,1
+OCR-D30352919.json,25,Romania,ROU,1
+OCR-D30352919.json,26,Myanmar,MMR,1
+OCR-D30352919.json,27,Norway,NOR,1
+OCR-D30352919.json,48,India,IND,1
+OCR-D30352919.json,48,Russia,,1
+OCR-D30352919.json,52,Kazakhstan,KAZ,1
+OCR-D30352919.json,52,Kyrgyzstan,KGZ,1
+OCR-D33780485.json,0,Vietnam,,1
+OCR-D33780485.json,1,Vietnam,,1
+OCR-D33780485.json,5,India,IND,1
+OCR-D33780485.json,8,Vietnam,,1
+OCR-D33780485.json,12,Timor-Leste,TLS,1
+OCR-D33780485.json,14,Timor-Leste,TLS,1
+OCR-D33780485.json,15,Timor-Leste,TLS,1
+OCR-D33780485.json,20,Vietnam,,1
+OCR-D26744506.json,1,Syrian Arab Republic,SYR,1
+OCR-D26744506.json,1,Afghanistan,AFG,1
+OCR-D26744506.json,3,South Africa,ZAF,1
+OCR-D26744506.json,5,Ethiopia,ETH,1
+OCR-D26744506.json,6,Soviet Union (former),,1
+OCR-D26744506.json,6,Palestine,,1
+OCR-D26744506.json,6,Bangladesh,BGD,1
+OCR-D26744506.json,7,Germany,DEU,1
+OCR-D26744506.json,7,South Africa,ZAF,1
+OCR-D26744506.json,7,Sweden,SWE,1
+OCR-D26744506.json,7,Ethiopia,ETH,1
+OCR-D26744506.json,7,Kenya,KEN,1
+OCR-D26744506.json,8,Iran,,1
+OCR-D26744506.json,8,Syria,,1
+OCR-D26744506.json,8,Türkiye,TUR,1
+OCR-D26744506.json,8,Central African Republic,CAF,1
+OCR-D26744506.json,8,Kenya,KEN,1
+OCR-D26744506.json,9,Pakistan,PAK,1
+OCR-D26744506.json,9,Kenya,KEN,1
+OCR-D26744506.json,9,Tanzania,,1
+OCR-D26744506.json,10,DR Congo,,1
+OCR-D26744506.json,10,Rwanda,RWA,1
+OCR-D26744506.json,10,Uganda,UGA,1
+OCR-D26744506.json,10,Tanzania,,1
+OCR-D26744506.json,11,Kenya,KEN,1
+OCR-D26744506.json,12,Afghanistan,AFG,1
+OCR-D26744506.json,12,Pakistan,PAK,1
+OCR-D26744506.json,12,Ukraine,UKR,1
+OCR-D26744506.json,12,South Sudan,SSD,1
+OCR-D26744506.json,12,Central African Republic,CAF,1
+OCR-D26744506.json,12,Kenya,KEN,1
+OCR-D26744506.json,13,Myanmar,MMR,1
+OCR-D26744506.json,13,Vietnam,,1
+OCR-D26744506.json,13,Afghanistan,AFG,1
+OCR-D26744506.json,13,Colombia,COL,1
+OCR-D26744506.json,13,Western Sahara,ESH,1
+OCR-D26744506.json,13,China,CHN,1
+OCR-D26744506.json,14,Myanmar,MMR,1
+OCR-D26744506.json,14,Somalia,SOM,1
+OCR-D26744506.json,14,Afghanistan,AFG,1
+OCR-D26744506.json,14,Soviet Union (former),,1
+OCR-D26744506.json,14,Syria,,1
+OCR-D26744506.json,14,Rwanda,RWA,1
+OCR-D26744506.json,15,Somalia,SOM,1
+OCR-D26744506.json,15,Iraq,IRQ,1
+OCR-D26744506.json,15,DR Congo,,1
+OCR-D26744506.json,15,Rwanda,RWA,1
+OCR-D26744506.json,15,Sudan,SDN,1
+OCR-D26744506.json,15,Syrian Arab Republic,SYR,1
+OCR-D26744506.json,15,China,CHN,1
+OCR-D26744506.json,16,Iran,,1
+OCR-D26744506.json,16,Thailand,THA,1
+OCR-D26744506.json,16,Algeria,DZA,1
+OCR-D26744506.json,16,Pakistan,PAK,1
+OCR-D26744506.json,16,Mauritania,MRT,1
+OCR-D26744506.json,16,Western Sahara,ESH,1
+OCR-D26744506.json,16,Kenya,KEN,1
+OCR-D26744506.json,16,China,CHN,1
+OCR-D26744506.json,17,Syrian Arab Republic,SYR,1
+OCR-D26744506.json,17,Afghanistan,AFG,1
+OCR-D6525930.json,1,China,CHN,1
+OCR-D6525930.json,2,China,CHN,1
+OCR-D6525930.json,3,China,CHN,1
+OCR-D6525930.json,4,China,CHN,1
+OCR-D6525930.json,6,China,CHN,1
+OCR-D6525930.json,8,China,CHN,1
+OCR-D6525930.json,22,China,CHN,1
+OCR-D6525930.json,24,Hong Kong,HKG,1
+OCR-D6525930.json,25,China,CHN,1
+OCR-D34173720.json,0,South Africa,ZAF,1
+OCR-D34173720.json,1,South Africa,ZAF,1
+OCR-D34173720.json,2,South Africa,ZAF,1
+OCR-D34173720.json,3,South Africa,ZAF,1
+OCR-D34173720.json,4,South Africa,ZAF,1
+OCR-D34173720.json,5,Afghanistan,AFG,1
+OCR-D34173720.json,5,Bangladesh,BGD,1
+OCR-D34173720.json,5,Pakistan,PAK,1
+OCR-D34173720.json,5,India,IND,1
+OCR-D34173720.json,5,Nepal,NPL,1
+OCR-D34173720.json,5,Sri Lanka,LKA,1
+OCR-D34173720.json,8,Afghanistan,AFG,1
+OCR-D34173720.json,8,Bangladesh,BGD,1
+OCR-D34173720.json,8,Pakistan,PAK,1
+OCR-D34173720.json,8,South Africa,ZAF,1
+OCR-D34173720.json,8,India,IND,1
+OCR-D34173720.json,8,Nepal,NPL,1
+OCR-D34173720.json,8,Sri Lanka,LKA,1
+OCR-D34173720.json,14,South Africa,ZAF,1
+OCR-D34173720.json,25,South Africa,ZAF,1
+OCR-D34173720.json,25,India,IND,1
+OCR-D34173720.json,27,South Africa,ZAF,1
+OCR-D34173720.json,30,Russian Federation,RUS,1
+OCR-D34173720.json,32,Brazil,BRA,1
+OCR-D34173720.json,33,Afghanistan,AFG,1
+OCR-D34173720.json,33,Bangladesh,BGD,1
+OCR-D3401982.json,14,Brazil,BRA,1
+OCR-D3401982.json,17,Brazil,BRA,1
+OCR-D3401982.json,17,Ecuador,ECU,1
+OCR-D3401982.json,21,Argentina,ARG,1
+OCR-D3401982.json,21,Colombia,COL,1
+OCR-D3401982.json,22,Ecuador,ECU,1
+OCR-D3401982.json,22,Brazil,BRA,1
+OCR-D3401982.json,22,Venezuela,,1
+OCR-D3401982.json,22,Colombia,COL,1
+OCR-D3401982.json,36,Brazil,BRA,1
+OCR-D3401982.json,36,South Korea,,1
+OCR-D3401982.json,39,Argentina,ARG,1
+OCR-D3401982.json,39,Ecuador,ECU,1
+OCR-D3401982.json,39,Brazil,BRA,1
+OCR-D3401982.json,39,Namibia,NAM,1
+OCR-D3401982.json,39,Venezuela,,1
+OCR-D3401982.json,39,Colombia,COL,1
+OCR-D3401982.json,39,Peru,PER,1
+OCR-D19874670.json,7,Mexico,MEX,1
+OCR-D19874670.json,7,South Africa,ZAF,1
+OCR-D19874670.json,7,South Korea,,1
+OCR-D19874670.json,8,India,IND,1
+OCR-D19874670.json,11,Uganda,UGA,1
+OCR-D19874670.json,14,Brazil,BRA,1
+OCR-D19874670.json,16,Mexico,MEX,1
+OCR-D19874670.json,16,United States,USA,1
+OCR-D19874670.json,16,Brazil,BRA,1
+OCR-D19874670.json,16,India,IND,1
+OCR-D19874670.json,17,Brazil,BRA,1
+OCR-D19874670.json,18,Uganda,UGA,1
+OCR-D19874670.json,18,Brazil,BRA,1
+OCR-D19874670.json,18,India,IND,1
+OCR-D19874670.json,18,St. Vincent and the Grenadines,,1
+OCR-D19874670.json,18,Sri Lanka,LKA,1
+OCR-D19874670.json,18,Kenya,KEN,1
+OCR-D19874670.json,27,India,IND,1
+OCR-D19874670.json,28,Mexico,MEX,1
+OCR-D19874670.json,28,Uganda,UGA,1
+OCR-D19874670.json,28,Brazil,BRA,1
+OCR-D8980990.json,0,China,CHN,1
+OCR-D8980990.json,1,Taiwan,,1
+OCR-D8980990.json,1,China,CHN,1
+OCR-D8980990.json,2,United States,USA,1
+OCR-D8980990.json,2,China,CHN,1
+OCR-D8980990.json,3,Sweden,SWE,1
+OCR-D8980990.json,3,China,CHN,1
+OCR-D8980990.json,4,Taiwan,,1
+OCR-D8980990.json,4,India,IND,1
+OCR-D8980990.json,5,Taiwan,,1
+OCR-D8980990.json,5,China,CHN,1
+OCR-D8980990.json,6,Taiwan,,1
+OCR-D8980990.json,6,United States,USA,1
+OCR-D8980990.json,6,China,CHN,1
+OCR-D8980990.json,7,China,CHN,1
+OCR-D8980990.json,7,South Korea,,1
+OCR-D8980990.json,8,India,IND,1
+OCR-D8980990.json,8,China,CHN,1
+OCR-D8980990.json,9,Philippines,PHL,1
+OCR-D8980990.json,9,Greenland,GRL,1
+OCR-D8980990.json,9,Greece,GRC,1
+OCR-D8980990.json,9,France,FRA,1
+OCR-D8980990.json,10,China,CHN,1
+OCR-D8980990.json,11,Taiwan,,1
+OCR-D8980990.json,11,China,CHN,1
+OCR-D8980990.json,13,China,CHN,1
+OCR-D8980990.json,14,Taiwan,,1
+OCR-D8980990.json,14,China,CHN,1
+OCR-D8980990.json,15,China,CHN,1
+OCR-D8980990.json,15,India,IND,1
+OCR-D8980990.json,15,South Korea,,1
+OCR-D8980990.json,16,Greenland,GRL,1
+OCR-D8980990.json,16,South Korea,,1
+OCR-D8980990.json,16,China,CHN,1
+OCR-D8980990.json,17,China,CHN,1
+OCR-D8980990.json,18,India,IND,1
+OCR-D8980990.json,18,China,CHN,1
+OCR-D437919.json,6,Soviet Union (former),,1
+OCR-D437919.json,8,Moldova,,1
+OCR-D437919.json,8,Armenia,ARM,1
+OCR-D437919.json,8,Croatia,HRV,1
+OCR-D437919.json,8,Kyrgyzstan,KGZ,1
+OCR-D437919.json,8,Ukraine,UKR,1
+OCR-D437919.json,8,Romania,ROU,1
+OCR-D437919.json,8,Georgia,GEO,1
+OCR-D437919.json,8,Hungary,HUN,1
+OCR-D437919.json,8,Czechia,CZE,1
+OCR-D437919.json,8,Uzbekistan,UZB,1
+OCR-D437919.json,8,Estonia,EST,1
+OCR-D437919.json,8,Belarus,BLR,1
+OCR-D437919.json,8,Bulgaria,BGR,1
+OCR-D437919.json,8,Slovenia,SVN,1
+OCR-D437919.json,8,Kazakhstan,KAZ,1
+OCR-D437919.json,8,Azerbaijan,AZE,1
+OCR-D437919.json,12,Armenia,ARM,1
+OCR-D437919.json,12,Belarus,BLR,1
+OCR-D437919.json,12,Azerbaijan,AZE,1
+OCR-D437919.json,12,Bulgaria,BGR,1
+OCR-D437919.json,20,Armenia,ARM,1
+OCR-D437919.json,20,Croatia,HRV,1
+OCR-D437919.json,20,Georgia,GEO,1
+OCR-D437919.json,20,Czechia,CZE,1
+OCR-D437919.json,20,Estonia,EST,1
+OCR-D437919.json,20,Belarus,BLR,1
+OCR-D437919.json,20,Bulgaria,BGR,1
+OCR-D437919.json,20,Azerbaijan,AZE,1
+OCR-D437919.json,34,Armenia,ARM,1
+OCR-D437919.json,39,Armenia,ARM,1
+OCR-D437919.json,39,Croatia,HRV,1
+OCR-D437919.json,39,Czechia,CZE,1
+OCR-D437919.json,39,Estonia,EST,1
+OCR-D437919.json,39,Belarus,BLR,1
+OCR-D437919.json,39,Bulgaria,BGR,1
+OCR-D437919.json,39,Azerbaijan,AZE,1
+OCR-D437919.json,41,Russia,,1
+OCR-D437919.json,46,United Kingdom,GBR,1
+OCR-D437919.json,46,Morocco,MAR,1
+OCR-D437919.json,46,Russia,,1
+OCR-D437919.json,47,Russia,,1
+OCR-D31178056.json,1,Senegal,SEN,1
+OCR-D31178056.json,1,Rwanda,RWA,1
+OCR-D31178056.json,1,Burkina Faso,BFA,1
+OCR-D31178056.json,5,Senegal,SEN,1
+OCR-D31178056.json,5,Rwanda,RWA,1
+OCR-D31178056.json,5,Burkina Faso,BFA,1
+OCR-D31178056.json,6,Kenya,KEN,1
+OCR-D31178056.json,15,Senegal,SEN,1
+OCR-D31178056.json,15,Rwanda,RWA,1
+OCR-D31178056.json,15,Burkina Faso,BFA,1
+OCR-D31178056.json,16,Senegal,SEN,1
+OCR-D31178056.json,16,Rwanda,RWA,1
+OCR-D31178056.json,16,Burkina Faso,BFA,1
+OCR-D31178056.json,17,Senegal,SEN,1
+OCR-D31178056.json,17,Rwanda,RWA,1
+OCR-D31178056.json,17,Burkina Faso,BFA,1
+OCR-D31178056.json,19,Senegal,SEN,1
+OCR-D31178056.json,19,Rwanda,RWA,1
+OCR-D31178056.json,19,Burkina Faso,BFA,1
+OCR-D31178056.json,20,Senegal,SEN,1
+OCR-D31178056.json,20,Rwanda,RWA,1
+OCR-D31178056.json,20,Burkina Faso,BFA,1
+OCR-D31178056.json,21,Senegal,SEN,1
+OCR-D31178056.json,21,Rwanda,RWA,1
+OCR-D31178056.json,22,Senegal,SEN,1
+OCR-D31178056.json,22,Rwanda,RWA,1
+OCR-D31178056.json,22,Burkina Faso,BFA,1
+OCR-D31178056.json,23,Senegal,SEN,1
+OCR-D31178056.json,23,Rwanda,RWA,1
+OCR-D31178056.json,23,Burkina Faso,BFA,1
+OCR-D31178056.json,26,Senegal,SEN,1
+OCR-D31178056.json,26,Rwanda,RWA,1
+OCR-D31178056.json,26,Burkina Faso,BFA,1
+OCR-D31178056.json,28,Brazil,BRA,1
+OCR-D31178056.json,29,Rwanda,RWA,1
+OCR-D31178056.json,30,Rwanda,RWA,1
+OCR-D31178056.json,37,Rwanda,RWA,1
+OCR-D31178056.json,37,Thailand,THA,1
+OCR-D17386101.json,9,China,CHN,1
+OCR-D17386101.json,11,United States,USA,1
+OCR-D17386101.json,19,China,CHN,1
+OCR-D17386101.json,20,Taiwan,,1
+OCR-D17386101.json,20,Hong Kong,HKG,1
+OCR-D17386101.json,20,Macao,MAC,1
+OCR-D17386101.json,20,China,CHN,1
+OCR-D17386101.json,29,China,CHN,1
+OCR-D17386101.json,41,Malaysia,MYS,1
+OCR-D17386101.json,41,China,CHN,1
+OCR-D17386101.json,56,China,CHN,1
+OCR-D17386101.json,57,India,IND,1
+OCR-D14985485.json,5,China,CHN,1
+OCR-D14985485.json,6,South Africa,ZAF,1
+OCR-D14985485.json,7,United States,USA,1
+OCR-D14985485.json,10,China,CHN,1
+OCR-D14985485.json,11,United Kingdom,GBR,1
+OCR-D14985485.json,11,Germany,DEU,1
+OCR-D14985485.json,11,India,IND,1
+OCR-D14985485.json,11,China,CHN,1
+OCR-D14985485.json,12,India,IND,1
+OCR-D14985485.json,12,China,CHN,1
+OCR-D14985485.json,18,India,IND,1
+OCR-D14985485.json,19,United States,USA,1
+OCR-D14985485.json,22,Mexico,MEX,1
+OCR-D14985485.json,22,United States,USA,1
+OCR-D14985485.json,23,Russia,,1
+OCR-D14985485.json,24,China,CHN,1
+OCR-D14985485.json,26,Mexico,MEX,1
+OCR-D14985485.json,27,Morocco,MAR,1
+OCR-D697278.json,1,United States,USA,1
+OCR-D697278.json,9,Chile,CHL,1
+OCR-D697278.json,9,United States,USA,1
+OCR-D697278.json,13,Japan,JPN,1
+OCR-D697278.json,13,United States,USA,1
+OCR-D697278.json,13,China,CHN,1
+OCR-D697278.json,14,Japan,JPN,1
+OCR-D697278.json,14,United States,USA,1
+OCR-D697278.json,14,China,CHN,1
+OCR-D697278.json,16,United States,USA,1
+OCR-D697278.json,16,Hong Kong,HKG,1
+OCR-D697278.json,16,China,CHN,1
+OCR-D697278.json,17,United States,USA,1
+OCR-D697278.json,19,Japan,JPN,1
+OCR-D697278.json,19,United States,USA,1
+OCR-D697278.json,19,China,CHN,1
+OCR-D697278.json,20,Japan,JPN,1
+OCR-D697278.json,20,United States,USA,1
+OCR-D697278.json,21,Japan,JPN,1
+OCR-D697278.json,21,United States,USA,1
+OCR-D697278.json,21,China,CHN,1
+OCR-D697278.json,22,Japan,JPN,1
+OCR-D697278.json,22,United States,USA,1
+OCR-D697278.json,22,China,CHN,1
+OCR-D697278.json,23,Japan,JPN,1
+OCR-D697278.json,23,United States,USA,1
+OCR-D697278.json,23,China,CHN,1
+OCR-D697278.json,24,Japan,JPN,1
+OCR-D697278.json,24,United States,USA,1
+OCR-D697278.json,24,China,CHN,1
+OCR-D697278.json,25,Japan,JPN,1
+OCR-D697278.json,25,United States,USA,1
+OCR-D697278.json,27,United States,USA,1
+OCR-D697278.json,28,Soviet Union (former),,1
+OCR-D697278.json,28,Japan,JPN,1
+OCR-D697278.json,28,United States,USA,1
+OCR-D697278.json,28,China,CHN,1
+OCR-D697278.json,29,Japan,JPN,1
+OCR-D697278.json,29,United States,USA,1
+OCR-D697278.json,33,Taiwan,,1
+OCR-D697278.json,33,Hong Kong,HKG,1
+OCR-D697278.json,33,China,CHN,1
+OCR-D697278.json,35,Japan,JPN,1
+OCR-D697278.json,39,Japan,JPN,1
+OCR-D697278.json,39,United States,USA,1
+OCR-D697278.json,40,United States,USA,1
+OCR-D697278.json,41,United States,USA,1
+OCR-D697278.json,41,China,CHN,1
+OCR-D697278.json,42,Japan,JPN,1
+OCR-D697278.json,42,United States,USA,1
+OCR-D697278.json,42,China,CHN,1
+OCR-D697278.json,43,Japan,JPN,1
+OCR-D697278.json,43,United States,USA,1
+OCR-D697278.json,43,China,CHN,1
+OCR-D697278.json,44,Japan,JPN,1
+OCR-D697278.json,44,United States,USA,1
+OCR-D697278.json,44,China,CHN,1
+OCR-D697278.json,45,Japan,JPN,1
+OCR-D697278.json,45,United States,USA,1
+OCR-D697278.json,45,China,CHN,1
+OCR-D697278.json,46,Japan,JPN,1
+OCR-D697278.json,46,United States,USA,1
+OCR-D697278.json,46,China,CHN,1
+OCR-D697278.json,47,Japan,JPN,1
+OCR-D697278.json,47,United States,USA,1
+OCR-D697278.json,47,China,CHN,1
+OCR-D697278.json,48,United States,USA,1
+OCR-D697278.json,49,Japan,JPN,1
+OCR-D697278.json,49,United States,USA,1
+OCR-D697278.json,49,China,CHN,1
+OCR-D697278.json,50,United States,USA,1
+OCR-D697278.json,50,China,CHN,1
+OCR-D697278.json,51,Japan,JPN,1
+OCR-D697278.json,51,United States,USA,1
+OCR-D697278.json,51,China,CHN,1
+OCR-D697278.json,52,Japan,JPN,1
+OCR-D697278.json,52,United States,USA,1
+OCR-D697278.json,52,China,CHN,1
+OCR-D697278.json,53,Japan,JPN,1
+OCR-D697278.json,53,United States,USA,1
+OCR-D697278.json,53,China,CHN,1
+OCR-D697278.json,54,Japan,JPN,1
+OCR-D697278.json,54,United States,USA,1
+OCR-D697278.json,54,China,CHN,1
+OCR-D697278.json,55,Japan,JPN,1
+OCR-D697278.json,55,United States,USA,1
+OCR-D697278.json,55,China,CHN,1
+OCR-D697278.json,56,Japan,JPN,1
+OCR-D697278.json,56,United States,USA,1
+OCR-D697278.json,56,China,CHN,1
+OCR-D697278.json,57,Japan,JPN,1
+OCR-D697278.json,57,United States,USA,1
+OCR-D697278.json,57,China,CHN,1
+OCR-D697278.json,58,United States,USA,1
+OCR-D697278.json,58,China,CHN,1
+OCR-D697278.json,60,Canada,CAN,1
+OCR-D697278.json,61,United States,USA,1
+OCR-D697278.json,62,Taiwan,,1
+OCR-D697278.json,62,Japan,JPN,1
+OCR-D697278.json,62,Hong Kong,HKG,1
+OCR-D697278.json,62,China,CHN,1
+OCR-D697278.json,65,United States,USA,1
+OCR-D697278.json,71,Ireland,IRL,1
+OCR-D697278.json,74,Bulgaria,BGR,1
+OCR-D10354641.json,1,United States,USA,1
+OCR-D10354641.json,3,United Kingdom,GBR,1
+OCR-D10354641.json,3,United States,USA,1
+OCR-D10354641.json,5,United Kingdom,GBR,1
+OCR-D10354641.json,5,United States,USA,1
+OCR-D10354641.json,6,Japan,JPN,1
+OCR-D10354641.json,6,United States,USA,1
+OCR-D10354641.json,6,Canada,CAN,1
+OCR-D10354641.json,7,United States,USA,1
+OCR-D10354641.json,8,United States,USA,1
+OCR-D10354641.json,9,Japan,JPN,1
+OCR-D10354641.json,9,Australia,AUS,1
+OCR-D10354641.json,9,United States,USA,1
+OCR-D10354641.json,9,South Korea,,1
+OCR-D10354641.json,9,Canada,CAN,1
+OCR-D10354641.json,9,China,CHN,1
+OCR-D10354641.json,10,Australia,AUS,1
+OCR-D10354641.json,10,Japan,JPN,1
+OCR-D10354641.json,10,Canada,CAN,1
+OCR-D10354641.json,12,United States,USA,1
+OCR-D10354641.json,13,United States,USA,1
+OCR-D10354641.json,14,United States,USA,1
+OCR-D10354641.json,17,United States,USA,1
+OCR-D10354641.json,18,St. Pierre and Miquelon,,1
+OCR-D10354641.json,18,Colombia,COL,1
+OCR-D10354641.json,19,United States,USA,1
+OCR-D10354641.json,20,Canada,CAN,1
+OCR-D10354641.json,22,St. Pierre and Miquelon,,1
+OCR-D10354641.json,25,Argentina,ARG,1
+OCR-D10354641.json,25,Ecuador,ECU,1
+OCR-D10354641.json,25,Brazil,BRA,1
+OCR-D10354641.json,25,Mexico,MEX,1
+OCR-D10354641.json,25,Chile,CHL,1
+OCR-D10354641.json,25,Colombia,COL,1
+OCR-D10354641.json,27,Bangladesh,BGD,1
+OCR-D10354641.json,27,Saudi Arabia,SAU,1
+OCR-D10354641.json,27,Singapore,SGP,1
+OCR-D10354641.json,27,United States,USA,1
+OCR-D10354641.json,27,Philippines,PHL,1
+OCR-D10354641.json,27,India,IND,1
+OCR-D10354641.json,27,Nepal,NPL,1
+OCR-D10354641.json,27,Taiwan,,1
+OCR-D10354641.json,27,South Korea,,1
+OCR-D10354641.json,27,Sri Lanka,LKA,1
+OCR-D10354641.json,27,Indonesia,IDN,1
+OCR-D10354641.json,27,Malaysia,MYS,1
+OCR-D10354641.json,27,China,CHN,1
+OCR-D10354641.json,28,Hong Kong,HKG,1
+OCR-D10354641.json,29,Japan,JPN,1
+OCR-D10354641.json,29,United States,USA,1
+OCR-D10354641.json,30,Greece,GRC,1
+OCR-D10354641.json,30,Pakistan,PAK,1
+OCR-D10354641.json,30,United States,USA,1
+OCR-D10354641.json,30,India,IND,1
+OCR-D10354641.json,30,Mexico,MEX,1
+OCR-D10354641.json,30,Spain,ESP,1
+OCR-D10354641.json,30,Italy,ITA,1
+OCR-D10354641.json,30,Guatemala,GTM,1
+OCR-D10354641.json,30,El Salvador,SLV,1
+OCR-D10354641.json,30,Honduras,HND,1
+OCR-D10354641.json,30,Malaysia,MYS,1
+OCR-D10354641.json,30,Tanzania,,1
+OCR-D10354641.json,32,Japan,JPN,1
+OCR-D10354641.json,32,Vietnam,,1
+OCR-D10354641.json,32,Australia,AUS,1
+OCR-D10354641.json,32,United States,USA,1
+OCR-D10354641.json,32,Brazil,BRA,1
+OCR-D10354641.json,32,Nepal,NPL,1
+OCR-D10354641.json,32,Philippines,PHL,1
+OCR-D10354641.json,32,Canada,CAN,1
+OCR-D10354641.json,33,Philippines,PHL,1
+OCR-D10354641.json,35,United States,USA,1
+OCR-D10354641.json,35,Nepal,NPL,1
+OCR-D10354641.json,35,Sweden,SWE,1
+OCR-D10354641.json,35,Mexico,MEX,1
+OCR-D10354641.json,35,United Kingdom,GBR,1
+OCR-D10354641.json,35,Canada,CAN,1
+OCR-D10354641.json,35,China,CHN,1
+OCR-D10354641.json,36,Australia,AUS,1
+OCR-D10354641.json,36,China,CHN,1
+OCR-D10354641.json,37,Italy,ITA,1
+OCR-D10354641.json,37,Nepal,NPL,1
+OCR-D10354641.json,37,India,IND,1
+OCR-D10354641.json,37,China,CHN,1
+OCR-D10354641.json,38,Chile,CHL,1
+OCR-D10354641.json,38,Colombia,COL,1
+OCR-D10354641.json,39,United States,USA,1
+OCR-D10354641.json,40,United States,USA,1
+OCR-D10354641.json,42,United States,USA,1
+OCR-D10354641.json,43,United States,USA,1
+OCR-D10354641.json,44,Germany,DEU,1
+OCR-D10354641.json,45,United States,USA,1
+OCR-D10354641.json,50,Switzerland,CHE,1
+OCR-D10354641.json,50,Sweden,SWE,1
+OCR-D10354641.json,51,Mexico,MEX,1
+OCR-D10354641.json,52,Brazil,BRA,1
+OCR-D10354641.json,53,China,CHN,1

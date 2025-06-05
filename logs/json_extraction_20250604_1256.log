@@ -1,0 +1,107 @@
+2025-06-04 12:56 - INFO - Starting JSON extraction process
+2025-06-04 12:56 - INFO - Starting JSON processing workflow
+2025-06-04 12:56 - INFO - Cleaned up output directory: output
+2025-06-04 12:56 - INFO - Found 20 JSON files to process
+2025-06-04 12:56 - INFO - Processing JSON 1/20: OCR-D25260752.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D25260752.json
+2025-06-04 12:56 - INFO - Extracted 42 pages from input/OCR-D25260752.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D25260752.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 2/20: OCR-D697028.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D697028.json
+2025-06-04 12:56 - INFO - Extracted 44 pages from input/OCR-D697028.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D697028.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 3/20: OCR-D32875091.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D32875091.json
+2025-06-04 12:56 - INFO - Extracted 82 pages from input/OCR-D32875091.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D32875091.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 4/20: OCR-D5796629.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D5796629.json
+2025-06-04 12:56 - INFO - Extracted 80 pages from input/OCR-D5796629.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D5796629.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 5/20: OCR-D13576464.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D13576464.json
+2025-06-04 12:56 - INFO - Extracted 27 pages from input/OCR-D13576464.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D13576464.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 6/20: OCR-D34385584.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D34385584.json
+2025-06-04 12:56 - INFO - Extracted 41 pages from input/OCR-D34385584.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D34385584.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 7/20: OCR-D30352919.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D30352919.json
+2025-06-04 12:56 - INFO - Extracted 60 pages from input/OCR-D30352919.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D30352919.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 8/20: OCR-D33780485.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D33780485.json
+2025-06-04 12:56 - INFO - Extracted 23 pages from input/OCR-D33780485.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D33780485.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 9/20: OCR-D26744506.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D26744506.json
+2025-06-04 12:56 - INFO - Extracted 19 pages from input/OCR-D26744506.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D26744506.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 10/20: OCR-D6525930.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D6525930.json
+2025-06-04 12:56 - INFO - Extracted 27 pages from input/OCR-D6525930.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D6525930.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 11/20: OCR-D34173720.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D34173720.json
+2025-06-04 12:56 - INFO - Extracted 44 pages from input/OCR-D34173720.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D34173720.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 12/20: OCR-D3401982.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D3401982.json
+2025-06-04 12:56 - INFO - Extracted 40 pages from input/OCR-D3401982.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D3401982.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 13/20: OCR-D19874670.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D19874670.json
+2025-06-04 12:56 - INFO - Extracted 32 pages from input/OCR-D19874670.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D19874670.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 14/20: OCR-D8980990.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D8980990.json
+2025-06-04 12:56 - INFO - Extracted 19 pages from input/OCR-D8980990.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D8980990.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 15/20: OCR-D437919.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D437919.json
+2025-06-04 12:56 - INFO - Extracted 50 pages from input/OCR-D437919.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D437919.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 16/20: OCR-D31178056.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D31178056.json
+2025-06-04 12:56 - INFO - Extracted 39 pages from input/OCR-D31178056.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D31178056.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 17/20: OCR-D17386101.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D17386101.json
+2025-06-04 12:56 - INFO - Extracted 58 pages from input/OCR-D17386101.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D17386101.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 18/20: OCR-D14985485.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D14985485.json
+2025-06-04 12:56 - INFO - Extracted 29 pages from input/OCR-D14985485.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D14985485.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 19/20: OCR-D697278.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D697278.json
+2025-06-04 12:56 - INFO - Extracted 76 pages from input/OCR-D697278.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D697278.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Processing JSON 20/20: OCR-D10354641.json
+2025-06-04 12:56 - INFO - Starting extraction for input/OCR-D10354641.json
+2025-06-04 12:56 - INFO - Extracted 54 pages from input/OCR-D10354641.json
+2025-06-04 12:56 - INFO - Successfully processed OCR-D10354641.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Saved 20 records to output/extracted_data.json
+2025-06-04 12:56 - INFO - --------------------------------------------------------------------------------
+2025-06-04 12:56 - INFO - Total execution time: 5.45 seconds

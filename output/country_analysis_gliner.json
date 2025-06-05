@@ -1,0 +1,4963 @@
+[
+  {
+    "document_name": "OCR-D25260752.json",
+    "total_pages": 42,
+    "total_countries_found": 4,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "5": {
+        "countries": {
+          "United Kingdom": 1
+        },
+        "total_countries": 1
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "27": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "28": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "29": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "30": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "32": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "33": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "34": {
+        "countries": {
+          "France": 1
+        },
+        "total_countries": 1
+      },
+      "35": {
+        "countries": {
+          "Mali": 1
+        },
+        "total_countries": 1
+      },
+      "36": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "37": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "39": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "40": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "41": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "United States": 1,
+      "United Kingdom": 1,
+      "France": 1,
+      "Mali": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D697028.json",
+    "total_pages": 44,
+    "total_countries_found": 21,
+    "countries_by_page": {
+      "0": {
+        "countries": {
+          "Mexico": 1
+        },
+        "total_countries": 1
+      },
+      "1": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "13": {
+        "countries": {
+          "Argentina": 1,
+          "Thailand": 1,
+          "Mexico": 1,
+          "Philippines": 1,
+          "Malaysia": 1,
+          "Peru": 1
+        },
+        "total_countries": 6
+      },
+      "14": {
+        "countries": {
+          "DR Congo": 1,
+          "Argentina": 1,
+          "Brazil": 1,
+          "Jordan": 1
+        },
+        "total_countries": 4
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "21": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "27": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "28": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "29": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "30": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "31": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "32": {
+        "countries": {
+          "Argentina": 1,
+          "Ecuador": 1,
+          "Pakistan": 1,
+          "Tunisia": 1,
+          "Syria": 1,
+          "Paraguay": 1,
+          "Colombia": 1,
+          "DR Congo": 1,
+          "Indonesia": 1,
+          "Venezuela": 1,
+          "South Korea": 1,
+          "Philippines": 1
+        },
+        "total_countries": 12
+      },
+      "33": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "34": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "35": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "36": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "37": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "39": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "40": {
+        "countries": {
+          "Portugal": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "41": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "42": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "43": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "Mexico": 2,
+      "United States": 5,
+      "Argentina": 3,
+      "Thailand": 1,
+      "Philippines": 2,
+      "Malaysia": 1,
+      "Peru": 1,
+      "DR Congo": 2,
+      "Brazil": 1,
+      "Jordan": 1,
+      "Ecuador": 1,
+      "Pakistan": 1,
+      "Tunisia": 1,
+      "Syria": 1,
+      "Paraguay": 1,
+      "Colombia": 1,
+      "Indonesia": 1,
+      "Venezuela": 1,
+      "South Korea": 1,
+      "Portugal": 1,
+      "China": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D32875091.json",
+    "total_pages": 82,
+    "total_countries_found": 6,
+    "countries_by_page": {
+      "0": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "1": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "6": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "21": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "27": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "28": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "29": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "30": {
+        "countries": {
+          "Indonesia": 1,
+          "United Kingdom": 1
+        },
+        "total_countries": 2
+      },
+      "31": {
+        "countries": {
+          "United States": 1,
+          "India": 1,
+          "Burkina Faso": 1,
+          "Indonesia": 1,
+          "Romania": 1
+        },
+        "total_countries": 5
+      },
+      "32": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "33": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "34": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "35": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "36": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "37": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "39": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "40": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "41": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "42": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "43": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "44": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "45": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "46": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "47": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "48": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "49": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "50": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "51": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "52": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "53": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "54": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "55": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "56": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "57": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "58": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "59": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "60": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "61": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "62": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "63": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "64": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "65": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "66": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "67": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "68": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "69": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "70": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "71": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "72": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "73": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "74": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "75": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "76": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "77": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "78": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "79": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "80": {
+        "countries": {
+          "Indonesia": 1
+        },
+        "total_countries": 1
+      },
+      "81": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "Indonesia": 14,
+      "United Kingdom": 1,
+      "United States": 1,
+      "India": 1,
+      "Burkina Faso": 1,
+      "Romania": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D5796629.json",
+    "total_pages": 80,
+    "total_countries_found": 8,
+    "countries_by_page": {
+      "0": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "1": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "2": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "3": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "4": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "5": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "6": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "9": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "10": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "11": {
+        "countries": {
+          "Mexico": 1
+        },
+        "total_countries": 1
+      },
+      "12": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "15": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "16": {
+        "countries": {
+          "Chile": 1,
+          "India": 1
+        },
+        "total_countries": 2
+      },
+      "17": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "20": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "21": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "23": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "24": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "25": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "26": {
+        "countries": {
+          "Guatemala": 1,
+          "El Salvador": 1
+        },
+        "total_countries": 2
+      },
+      "27": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "28": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "29": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "30": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "31": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "32": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "33": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "34": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "35": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "36": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "37": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "38": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "39": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "40": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "41": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "42": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "43": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "44": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "45": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "46": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "47": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "48": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "49": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "50": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "51": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "52": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "53": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "54": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "55": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "56": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "57": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "58": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "59": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "60": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "61": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "62": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "63": {
+        "countries": {
+          "El Salvador": 1
+        },
+        "total_countries": 1
+      },
+      "64": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "65": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "66": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "67": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "68": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "69": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "70": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "71": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "72": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "73": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "74": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "75": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "76": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "77": {
+        "countries": {
+          "Guatemala": 1
+        },
+        "total_countries": 1
+      },
+      "78": {
+        "countries": {
+          "Nicaragua": 1,
+          "Mexico": 1,
+          "Guatemala": 1,
+          "El Salvador": 1,
+          "Honduras": 1
+        },
+        "total_countries": 5
+      },
+      "79": {
+        "countries": {
+          "Chile": 1,
+          "Guatemala": 1
+        },
+        "total_countries": 2
+      }
+    },
+    "overall_country_frequencies": {
+      "Guatemala": 58,
+      "Mexico": 2,
+      "United States": 2,
+      "Chile": 2,
+      "India": 1,
+      "El Salvador": 3,
+      "Nicaragua": 1,
+      "Honduras": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D13576464.json",
+    "total_pages": 27,
+    "total_countries_found": 5,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {
+          "Japan": 1,
+          "Australia": 1,
+          "United States": 1,
+          "Russia": 1,
+          "Mexico": 1
+        },
+        "total_countries": 5
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {
+          "Japan": 1
+        },
+        "total_countries": 1
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "United States": 3,
+      "Japan": 2,
+      "Australia": 1,
+      "Russia": 1,
+      "Mexico": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D34385584.json",
+    "total_pages": 41,
+    "total_countries_found": 3,
+    "countries_by_page": {
+      "0": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "1": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "2": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "5": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "8": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "11": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "23": {
+        "countries": {
+          "Thailand": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "27": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "28": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "29": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "30": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "32": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "33": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "34": {
+        "countries": {
+          "Japan": 1
+        },
+        "total_countries": 1
+      },
+      "35": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "36": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "37": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "39": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "40": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "China": 11,
+      "Thailand": 1,
+      "Japan": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D30352919.json",
+    "total_pages": 60,
+    "total_countries_found": 21,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "9": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "10": {
+        "countries": {
+          "Russian Federation": 1
+        },
+        "total_countries": 1
+      },
+      "11": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "12": {
+        "countries": {
+          "Poland": 1,
+          "China": 1,
+          "United States": 1,
+          "Hungary": 1,
+          "Russia": 1,
+          "France": 1,
+          "Peru": 1
+        },
+        "total_countries": 7
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "21": {
+        "countries": {
+          "North Korea": 1
+        },
+        "total_countries": 1
+      },
+      "22": {
+        "countries": {
+          "Somalia": 1,
+          "Saudi Arabia": 1,
+          "Türkiye": 1,
+          "South Africa": 1,
+          "Russia": 1,
+          "Rwanda": 1
+        },
+        "total_countries": 6
+      },
+      "23": {
+        "countries": {
+          "Peru": 1,
+          "Poland": 1,
+          "Hungary": 1,
+          "Czechia": 1
+        },
+        "total_countries": 4
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {
+          "Romania": 1
+        },
+        "total_countries": 1
+      },
+      "26": {
+        "countries": {
+          "Myanmar": 1
+        },
+        "total_countries": 1
+      },
+      "27": {
+        "countries": {
+          "Norway": 1
+        },
+        "total_countries": 1
+      },
+      "28": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "29": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "30": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "32": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "33": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "34": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "35": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "36": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "37": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "39": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "40": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "41": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "42": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "43": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "44": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "45": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "46": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "47": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "48": {
+        "countries": {
+          "India": 1,
+          "Russia": 1
+        },
+        "total_countries": 2
+      },
+      "49": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "50": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "51": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "52": {
+        "countries": {
+          "Kazakhstan": 1,
+          "Kyrgyzstan": 1
+        },
+        "total_countries": 2
+      },
+      "53": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "54": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "55": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "56": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "57": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "58": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "59": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "China": 3,
+      "Russian Federation": 1,
+      "Poland": 2,
+      "United States": 1,
+      "Hungary": 2,
+      "Russia": 3,
+      "France": 1,
+      "Peru": 2,
+      "North Korea": 1,
+      "Somalia": 1,
+      "Saudi Arabia": 1,
+      "Türkiye": 1,
+      "South Africa": 1,
+      "Rwanda": 1,
+      "Czechia": 1,
+      "Romania": 1,
+      "Myanmar": 1,
+      "Norway": 1,
+      "India": 1,
+      "Kazakhstan": 1,
+      "Kyrgyzstan": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D33780485.json",
+    "total_pages": 23,
+    "total_countries_found": 3,
+    "countries_by_page": {
+      "0": {
+        "countries": {
+          "Vietnam": 1
+        },
+        "total_countries": 1
+      },
+      "1": {
+        "countries": {
+          "Vietnam": 1
+        },
+        "total_countries": 1
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {
+          "India": 1
+        },
+        "total_countries": 1
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {
+          "Vietnam": 1
+        },
+        "total_countries": 1
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {
+          "Timor-Leste": 1
+        },
+        "total_countries": 1
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {
+          "Timor-Leste": 1
+        },
+        "total_countries": 1
+      },
+      "15": {
+        "countries": {
+          "Timor-Leste": 1
+        },
+        "total_countries": 1
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {
+          "Vietnam": 1
+        },
+        "total_countries": 1
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "Vietnam": 4,
+      "India": 1,
+      "Timor-Leste": 3
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D26744506.json",
+    "total_pages": 19,
+    "total_countries_found": 32,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {
+          "Syrian Arab Republic": 1,
+          "Afghanistan": 1
+        },
+        "total_countries": 2
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {
+          "South Africa": 1
+        },
+        "total_countries": 1
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {
+          "Ethiopia": 1
+        },
+        "total_countries": 1
+      },
+      "6": {
+        "countries": {
+          "Soviet Union (former)": 1,
+          "Palestine": 1,
+          "Bangladesh": 1
+        },
+        "total_countries": 3
+      },
+      "7": {
+        "countries": {
+          "Germany": 1,
+          "South Africa": 1,
+          "Sweden": 1,
+          "Ethiopia": 1,
+          "Kenya": 1
+        },
+        "total_countries": 5
+      },
+      "8": {
+        "countries": {
+          "Iran": 1,
+          "Syria": 1,
+          "Türkiye": 1,
+          "Central African Republic": 1,
+          "Kenya": 1
+        },
+        "total_countries": 5
+      },
+      "9": {
+        "countries": {
+          "Pakistan": 1,
+          "Kenya": 1,
+          "Tanzania": 1
+        },
+        "total_countries": 3
+      },
+      "10": {
+        "countries": {
+          "DR Congo": 1,
+          "Rwanda": 1,
+          "Uganda": 1,
+          "Tanzania": 1
+        },
+        "total_countries": 4
+      },
+      "11": {
+        "countries": {
+          "Kenya": 1
+        },
+        "total_countries": 1
+      },
+      "12": {
+        "countries": {
+          "Afghanistan": 1,
+          "Pakistan": 1,
+          "Ukraine": 1,
+          "South Sudan": 1,
+          "Central African Republic": 1,
+          "Kenya": 1
+        },
+        "total_countries": 6
+      },
+      "13": {
+        "countries": {
+          "Myanmar": 1,
+          "Vietnam": 1,
+          "Afghanistan": 1,
+          "Colombia": 1,
+          "Western Sahara": 1,
+          "China": 1
+        },
+        "total_countries": 6
+      },
+      "14": {
+        "countries": {
+          "Myanmar": 1,
+          "Somalia": 1,
+          "Afghanistan": 1,
+          "Soviet Union (former)": 1,
+          "Syria": 1,
+          "Rwanda": 1
+        },
+        "total_countries": 6
+      },
+      "15": {
+        "countries": {
+          "Somalia": 1,
+          "Iraq": 1,
+          "DR Congo": 1,
+          "Rwanda": 1,
+          "Sudan": 1,
+          "Syrian Arab Republic": 1,
+          "China": 1
+        },
+        "total_countries": 7
+      },
+      "16": {
+        "countries": {
+          "Iran": 1,
+          "Thailand": 1,
+          "Algeria": 1,
+          "Pakistan": 1,
+          "Mauritania": 1,
+          "Western Sahara": 1,
+          "Kenya": 1,
+          "China": 1
+        },
+        "total_countries": 8
+      },
+      "17": {
+        "countries": {
+          "Syrian Arab Republic": 1,
+          "Afghanistan": 1
+        },
+        "total_countries": 2
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "Syrian Arab Republic": 3,
+      "Afghanistan": 5,
+      "South Africa": 2,
+      "Ethiopia": 2,
+      "Soviet Union (former)": 2,
+      "Palestine": 1,
+      "Bangladesh": 1,
+      "Germany": 1,
+      "Sweden": 1,
+      "Kenya": 6,
+      "Iran": 2,
+      "Syria": 2,
+      "Türkiye": 1,
+      "Central African Republic": 2,
+      "Pakistan": 3,
+      "Tanzania": 2,
+      "DR Congo": 2,
+      "Rwanda": 3,
+      "Uganda": 1,
+      "Ukraine": 1,
+      "South Sudan": 1,
+      "Myanmar": 2,
+      "Vietnam": 1,
+      "Colombia": 1,
+      "Western Sahara": 2,
+      "China": 3,
+      "Somalia": 2,
+      "Iraq": 1,
+      "Sudan": 1,
+      "Thailand": 1,
+      "Algeria": 1,
+      "Mauritania": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D6525930.json",
+    "total_pages": 27,
+    "total_countries_found": 2,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "2": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "3": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "4": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "5": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "6": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {
+          "Hong Kong": 1
+        },
+        "total_countries": 1
+      },
+      "25": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "China": 8,
+      "Hong Kong": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D34173720.json",
+    "total_pages": 44,
+    "total_countries_found": 9,
+    "countries_by_page": {
+      "0": {
+        "countries": {
+          "South Africa": 1
+        },
+        "total_countries": 1
+      },
+      "1": {
+        "countries": {
+          "South Africa": 1
+        },
+        "total_countries": 1
+      },
+      "2": {
+        "countries": {
+          "South Africa": 1
+        },
+        "total_countries": 1
+      },
+      "3": {
+        "countries": {
+          "South Africa": 1
+        },
+        "total_countries": 1
+      },
+      "4": {
+        "countries": {
+          "South Africa": 1
+        },
+        "total_countries": 1
+      },
+      "5": {
+        "countries": {
+          "Afghanistan": 1,
+          "Bangladesh": 1,
+          "Pakistan": 1,
+          "India": 1,
+          "Nepal": 1,
+          "Sri Lanka": 1
+        },
+        "total_countries": 6
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {
+          "Afghanistan": 1,
+          "Bangladesh": 1,
+          "Pakistan": 1,
+          "South Africa": 1,
+          "India": 1,
+          "Nepal": 1,
+          "Sri Lanka": 1
+        },
+        "total_countries": 7
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {
+          "South Africa": 1
+        },
+        "total_countries": 1
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {
+          "South Africa": 1,
+          "India": 1
+        },
+        "total_countries": 2
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "27": {
+        "countries": {
+          "South Africa": 1
+        },
+        "total_countries": 1
+      },
+      "28": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "29": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "30": {
+        "countries": {
+          "Russian Federation": 1
+        },
+        "total_countries": 1
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "32": {
+        "countries": {
+          "Brazil": 1
+        },
+        "total_countries": 1
+      },
+      "33": {
+        "countries": {
+          "Afghanistan": 1,
+          "Bangladesh": 1
+        },
+        "total_countries": 2
+      },
+      "34": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "35": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "36": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "37": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "39": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "40": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "41": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "42": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "43": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "South Africa": 9,
+      "Afghanistan": 3,
+      "Bangladesh": 3,
+      "Pakistan": 2,
+      "India": 3,
+      "Nepal": 2,
+      "Sri Lanka": 2,
+      "Russian Federation": 1,
+      "Brazil": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D3401982.json",
+    "total_pages": 40,
+    "total_countries_found": 8,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {
+          "Brazil": 1
+        },
+        "total_countries": 1
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {
+          "Brazil": 1,
+          "Ecuador": 1
+        },
+        "total_countries": 2
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "21": {
+        "countries": {
+          "Argentina": 1,
+          "Colombia": 1
+        },
+        "total_countries": 2
+      },
+      "22": {
+        "countries": {
+          "Ecuador": 1,
+          "Brazil": 1,
+          "Venezuela": 1,
+          "Colombia": 1
+        },
+        "total_countries": 4
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "27": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "28": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "29": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "30": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "32": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "33": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "34": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "35": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "36": {
+        "countries": {
+          "Brazil": 1,
+          "South Korea": 1
+        },
+        "total_countries": 2
+      },
+      "37": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "39": {
+        "countries": {
+          "Argentina": 1,
+          "Ecuador": 1,
+          "Brazil": 1,
+          "Namibia": 1,
+          "Venezuela": 1,
+          "Colombia": 1,
+          "Peru": 1
+        },
+        "total_countries": 7
+      }
+    },
+    "overall_country_frequencies": {
+      "Brazil": 5,
+      "Ecuador": 3,
+      "Argentina": 2,
+      "Colombia": 3,
+      "Venezuela": 2,
+      "South Korea": 1,
+      "Namibia": 1,
+      "Peru": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D19874670.json",
+    "total_pages": 32,
+    "total_countries_found": 10,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {
+          "Mexico": 1,
+          "South Africa": 1,
+          "South Korea": 1
+        },
+        "total_countries": 3
+      },
+      "8": {
+        "countries": {
+          "India": 1
+        },
+        "total_countries": 1
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {
+          "Uganda": 1
+        },
+        "total_countries": 1
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {
+          "Brazil": 1
+        },
+        "total_countries": 1
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {
+          "Mexico": 1,
+          "United States": 1,
+          "Brazil": 1,
+          "India": 1
+        },
+        "total_countries": 4
+      },
+      "17": {
+        "countries": {
+          "Brazil": 1
+        },
+        "total_countries": 1
+      },
+      "18": {
+        "countries": {
+          "Uganda": 1,
+          "Brazil": 1,
+          "India": 1,
+          "St. Vincent and the Grenadines": 1,
+          "Sri Lanka": 1,
+          "Kenya": 1
+        },
+        "total_countries": 6
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "27": {
+        "countries": {
+          "India": 1
+        },
+        "total_countries": 1
+      },
+      "28": {
+        "countries": {
+          "Mexico": 1,
+          "Uganda": 1,
+          "Brazil": 1
+        },
+        "total_countries": 3
+      },
+      "29": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "30": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "Mexico": 3,
+      "South Africa": 1,
+      "South Korea": 1,
+      "India": 4,
+      "Uganda": 3,
+      "Brazil": 5,
+      "United States": 1,
+      "St. Vincent and the Grenadines": 1,
+      "Sri Lanka": 1,
+      "Kenya": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D8980990.json",
+    "total_pages": 19,
+    "total_countries_found": 10,
+    "countries_by_page": {
+      "0": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "1": {
+        "countries": {
+          "Taiwan": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "2": {
+        "countries": {
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "3": {
+        "countries": {
+          "Sweden": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "4": {
+        "countries": {
+          "Taiwan": 1,
+          "India": 1
+        },
+        "total_countries": 2
+      },
+      "5": {
+        "countries": {
+          "Taiwan": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "6": {
+        "countries": {
+          "Taiwan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "7": {
+        "countries": {
+          "China": 1,
+          "South Korea": 1
+        },
+        "total_countries": 2
+      },
+      "8": {
+        "countries": {
+          "India": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "9": {
+        "countries": {
+          "Philippines": 1,
+          "Greenland": 1,
+          "Greece": 1,
+          "France": 1
+        },
+        "total_countries": 4
+      },
+      "10": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "11": {
+        "countries": {
+          "Taiwan": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "14": {
+        "countries": {
+          "Taiwan": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "15": {
+        "countries": {
+          "China": 1,
+          "India": 1,
+          "South Korea": 1
+        },
+        "total_countries": 3
+      },
+      "16": {
+        "countries": {
+          "Greenland": 1,
+          "South Korea": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "17": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "18": {
+        "countries": {
+          "India": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      }
+    },
+    "overall_country_frequencies": {
+      "China": 16,
+      "Taiwan": 6,
+      "United States": 2,
+      "Sweden": 1,
+      "India": 4,
+      "South Korea": 3,
+      "Philippines": 1,
+      "Greenland": 2,
+      "Greece": 1,
+      "France": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D437919.json",
+    "total_pages": 50,
+    "total_countries_found": 20,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "6": {
+        "countries": {
+          "Soviet Union (former)": 1
+        },
+        "total_countries": 1
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {
+          "Moldova": 1,
+          "Armenia": 1,
+          "Croatia": 1,
+          "Kyrgyzstan": 1,
+          "Ukraine": 1,
+          "Romania": 1,
+          "Georgia": 1,
+          "Hungary": 1,
+          "Czechia": 1,
+          "Uzbekistan": 1,
+          "Estonia": 1,
+          "Belarus": 1,
+          "Bulgaria": 1,
+          "Slovenia": 1,
+          "Kazakhstan": 1,
+          "Azerbaijan": 1
+        },
+        "total_countries": 16
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {
+          "Armenia": 1,
+          "Belarus": 1,
+          "Azerbaijan": 1,
+          "Bulgaria": 1
+        },
+        "total_countries": 4
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "20": {
+        "countries": {
+          "Armenia": 1,
+          "Croatia": 1,
+          "Georgia": 1,
+          "Czechia": 1,
+          "Estonia": 1,
+          "Belarus": 1,
+          "Bulgaria": 1,
+          "Azerbaijan": 1
+        },
+        "total_countries": 8
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "27": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "28": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "29": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "30": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "32": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "33": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "34": {
+        "countries": {
+          "Armenia": 1
+        },
+        "total_countries": 1
+      },
+      "35": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "36": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "37": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "39": {
+        "countries": {
+          "Armenia": 1,
+          "Croatia": 1,
+          "Czechia": 1,
+          "Estonia": 1,
+          "Belarus": 1,
+          "Bulgaria": 1,
+          "Azerbaijan": 1
+        },
+        "total_countries": 7
+      },
+      "40": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "41": {
+        "countries": {
+          "Russia": 1
+        },
+        "total_countries": 1
+      },
+      "42": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "43": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "44": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "45": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "46": {
+        "countries": {
+          "United Kingdom": 1,
+          "Morocco": 1,
+          "Russia": 1
+        },
+        "total_countries": 3
+      },
+      "47": {
+        "countries": {
+          "Russia": 1
+        },
+        "total_countries": 1
+      },
+      "48": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "49": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "Soviet Union (former)": 1,
+      "Moldova": 1,
+      "Armenia": 5,
+      "Croatia": 3,
+      "Kyrgyzstan": 1,
+      "Ukraine": 1,
+      "Romania": 1,
+      "Georgia": 2,
+      "Hungary": 1,
+      "Czechia": 3,
+      "Uzbekistan": 1,
+      "Estonia": 3,
+      "Belarus": 4,
+      "Bulgaria": 4,
+      "Slovenia": 1,
+      "Kazakhstan": 1,
+      "Azerbaijan": 4,
+      "Russia": 3,
+      "United Kingdom": 1,
+      "Morocco": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D31178056.json",
+    "total_pages": 39,
+    "total_countries_found": 6,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1,
+          "Burkina Faso": 1
+        },
+        "total_countries": 3
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1,
+          "Burkina Faso": 1
+        },
+        "total_countries": 3
+      },
+      "6": {
+        "countries": {
+          "Kenya": 1
+        },
+        "total_countries": 1
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "15": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1,
+          "Burkina Faso": 1
+        },
+        "total_countries": 3
+      },
+      "16": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1,
+          "Burkina Faso": 1
+        },
+        "total_countries": 3
+      },
+      "17": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1,
+          "Burkina Faso": 1
+        },
+        "total_countries": 3
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1,
+          "Burkina Faso": 1
+        },
+        "total_countries": 3
+      },
+      "20": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1,
+          "Burkina Faso": 1
+        },
+        "total_countries": 3
+      },
+      "21": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1
+        },
+        "total_countries": 2
+      },
+      "22": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1,
+          "Burkina Faso": 1
+        },
+        "total_countries": 3
+      },
+      "23": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1,
+          "Burkina Faso": 1
+        },
+        "total_countries": 3
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {
+          "Senegal": 1,
+          "Rwanda": 1,
+          "Burkina Faso": 1
+        },
+        "total_countries": 3
+      },
+      "27": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "28": {
+        "countries": {
+          "Brazil": 1
+        },
+        "total_countries": 1
+      },
+      "29": {
+        "countries": {
+          "Rwanda": 1
+        },
+        "total_countries": 1
+      },
+      "30": {
+        "countries": {
+          "Rwanda": 1
+        },
+        "total_countries": 1
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "32": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "33": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "34": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "35": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "36": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "37": {
+        "countries": {
+          "Rwanda": 1,
+          "Thailand": 1
+        },
+        "total_countries": 2
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "Senegal": 11,
+      "Rwanda": 14,
+      "Burkina Faso": 10,
+      "Kenya": 1,
+      "Brazil": 1,
+      "Thailand": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D17386101.json",
+    "total_pages": 58,
+    "total_countries_found": 7,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "9": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "20": {
+        "countries": {
+          "Taiwan": 1,
+          "Hong Kong": 1,
+          "Macao": 1,
+          "China": 1
+        },
+        "total_countries": 4
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "27": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "28": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "29": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "30": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "32": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "33": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "34": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "35": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "36": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "37": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "39": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "40": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "41": {
+        "countries": {
+          "Malaysia": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "42": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "43": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "44": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "45": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "46": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "47": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "48": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "49": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "50": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "51": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "52": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "53": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "54": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "55": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "56": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "57": {
+        "countries": {
+          "India": 1
+        },
+        "total_countries": 1
+      }
+    },
+    "overall_country_frequencies": {
+      "China": 6,
+      "United States": 1,
+      "Taiwan": 1,
+      "Hong Kong": 1,
+      "Macao": 1,
+      "Malaysia": 1,
+      "India": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D14985485.json",
+    "total_pages": 29,
+    "total_countries_found": 9,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "6": {
+        "countries": {
+          "South Africa": 1
+        },
+        "total_countries": 1
+      },
+      "7": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "8": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "9": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "10": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "11": {
+        "countries": {
+          "United Kingdom": 1,
+          "Germany": 1,
+          "India": 1,
+          "China": 1
+        },
+        "total_countries": 4
+      },
+      "12": {
+        "countries": {
+          "India": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "13": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "14": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "18": {
+        "countries": {
+          "India": 1
+        },
+        "total_countries": 1
+      },
+      "19": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "20": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {
+          "Mexico": 1,
+          "United States": 1
+        },
+        "total_countries": 2
+      },
+      "23": {
+        "countries": {
+          "Russia": 1
+        },
+        "total_countries": 1
+      },
+      "24": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      },
+      "25": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "26": {
+        "countries": {
+          "Mexico": 1
+        },
+        "total_countries": 1
+      },
+      "27": {
+        "countries": {
+          "Morocco": 1
+        },
+        "total_countries": 1
+      },
+      "28": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "China": 5,
+      "South Africa": 1,
+      "United States": 3,
+      "United Kingdom": 1,
+      "Germany": 1,
+      "India": 3,
+      "Mexico": 2,
+      "Russia": 1,
+      "Morocco": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D697278.json",
+    "total_pages": 76,
+    "total_countries_found": 10,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "6": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "7": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "8": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "9": {
+        "countries": {
+          "Chile": 1,
+          "United States": 1
+        },
+        "total_countries": 2
+      },
+      "10": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "13": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "14": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {
+          "United States": 1,
+          "Hong Kong": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "17": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "18": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "19": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "20": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1
+        },
+        "total_countries": 2
+      },
+      "21": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "22": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "23": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "24": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "25": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1
+        },
+        "total_countries": 2
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "27": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "28": {
+        "countries": {
+          "Soviet Union (former)": 1,
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 4
+      },
+      "29": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1
+        },
+        "total_countries": 2
+      },
+      "30": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "32": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "33": {
+        "countries": {
+          "Taiwan": 1,
+          "Hong Kong": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "34": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "35": {
+        "countries": {
+          "Japan": 1
+        },
+        "total_countries": 1
+      },
+      "36": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "37": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "38": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "39": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1
+        },
+        "total_countries": 2
+      },
+      "40": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "41": {
+        "countries": {
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "42": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "43": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "44": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "45": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "46": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "47": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "48": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "49": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "50": {
+        "countries": {
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "51": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "52": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "53": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "54": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "55": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "56": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "57": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 3
+      },
+      "58": {
+        "countries": {
+          "United States": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "59": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "60": {
+        "countries": {
+          "Canada": 1
+        },
+        "total_countries": 1
+      },
+      "61": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "62": {
+        "countries": {
+          "Taiwan": 1,
+          "Japan": 1,
+          "Hong Kong": 1,
+          "China": 1
+        },
+        "total_countries": 4
+      },
+      "63": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "64": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "65": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "66": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "67": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "68": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "69": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "70": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "71": {
+        "countries": {
+          "Ireland": 1
+        },
+        "total_countries": 1
+      },
+      "72": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "73": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "74": {
+        "countries": {
+          "Bulgaria": 1
+        },
+        "total_countries": 1
+      },
+      "75": {
+        "countries": {},
+        "total_countries": 0
+      }
+    },
+    "overall_country_frequencies": {
+      "United States": 38,
+      "Chile": 1,
+      "Japan": 28,
+      "China": 28,
+      "Hong Kong": 3,
+      "Soviet Union (former)": 1,
+      "Taiwan": 2,
+      "Canada": 1,
+      "Ireland": 1,
+      "Bulgaria": 1
+    },
+    "extraction_method": "gliner"
+  },
+  {
+    "document_name": "OCR-D10354641.json",
+    "total_pages": 54,
+    "total_countries_found": 37,
+    "countries_by_page": {
+      "0": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "1": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "2": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "3": {
+        "countries": {
+          "United Kingdom": 1,
+          "United States": 1
+        },
+        "total_countries": 2
+      },
+      "4": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "5": {
+        "countries": {
+          "United Kingdom": 1,
+          "United States": 1
+        },
+        "total_countries": 2
+      },
+      "6": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1,
+          "Canada": 1
+        },
+        "total_countries": 3
+      },
+      "7": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "8": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "9": {
+        "countries": {
+          "Japan": 1,
+          "Australia": 1,
+          "United States": 1,
+          "South Korea": 1,
+          "Canada": 1,
+          "China": 1
+        },
+        "total_countries": 6
+      },
+      "10": {
+        "countries": {
+          "Australia": 1,
+          "Japan": 1,
+          "Canada": 1
+        },
+        "total_countries": 3
+      },
+      "11": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "12": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "13": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "14": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "15": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "16": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "17": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "18": {
+        "countries": {
+          "St. Pierre and Miquelon": 1,
+          "Colombia": 1
+        },
+        "total_countries": 2
+      },
+      "19": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "20": {
+        "countries": {
+          "Canada": 1
+        },
+        "total_countries": 1
+      },
+      "21": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "22": {
+        "countries": {
+          "St. Pierre and Miquelon": 1
+        },
+        "total_countries": 1
+      },
+      "23": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "24": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "25": {
+        "countries": {
+          "Argentina": 1,
+          "Ecuador": 1,
+          "Brazil": 1,
+          "Mexico": 1,
+          "Chile": 1,
+          "Colombia": 1
+        },
+        "total_countries": 6
+      },
+      "26": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "27": {
+        "countries": {
+          "Bangladesh": 1,
+          "Saudi Arabia": 1,
+          "Singapore": 1,
+          "United States": 1,
+          "Philippines": 1,
+          "India": 1,
+          "Nepal": 1,
+          "Taiwan": 1,
+          "South Korea": 1,
+          "Sri Lanka": 1,
+          "Indonesia": 1,
+          "Malaysia": 1,
+          "China": 1
+        },
+        "total_countries": 13
+      },
+      "28": {
+        "countries": {
+          "Hong Kong": 1
+        },
+        "total_countries": 1
+      },
+      "29": {
+        "countries": {
+          "Japan": 1,
+          "United States": 1
+        },
+        "total_countries": 2
+      },
+      "30": {
+        "countries": {
+          "Greece": 1,
+          "Pakistan": 1,
+          "United States": 1,
+          "India": 1,
+          "Mexico": 1,
+          "Spain": 1,
+          "Italy": 1,
+          "Guatemala": 1,
+          "El Salvador": 1,
+          "Honduras": 1,
+          "Malaysia": 1,
+          "Tanzania": 1
+        },
+        "total_countries": 12
+      },
+      "31": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "32": {
+        "countries": {
+          "Japan": 1,
+          "Vietnam": 1,
+          "Australia": 1,
+          "United States": 1,
+          "Brazil": 1,
+          "Nepal": 1,
+          "Philippines": 1,
+          "Canada": 1
+        },
+        "total_countries": 8
+      },
+      "33": {
+        "countries": {
+          "Philippines": 1
+        },
+        "total_countries": 1
+      },
+      "34": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "35": {
+        "countries": {
+          "United States": 1,
+          "Nepal": 1,
+          "Sweden": 1,
+          "Mexico": 1,
+          "United Kingdom": 1,
+          "Canada": 1,
+          "China": 1
+        },
+        "total_countries": 7
+      },
+      "36": {
+        "countries": {
+          "Australia": 1,
+          "China": 1
+        },
+        "total_countries": 2
+      },
+      "37": {
+        "countries": {
+          "Italy": 1,
+          "Nepal": 1,
+          "India": 1,
+          "China": 1
+        },
+        "total_countries": 4
+      },
+      "38": {
+        "countries": {
+          "Chile": 1,
+          "Colombia": 1
+        },
+        "total_countries": 2
+      },
+      "39": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "40": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "41": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "42": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "43": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "44": {
+        "countries": {
+          "Germany": 1
+        },
+        "total_countries": 1
+      },
+      "45": {
+        "countries": {
+          "United States": 1
+        },
+        "total_countries": 1
+      },
+      "46": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "47": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "48": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "49": {
+        "countries": {},
+        "total_countries": 0
+      },
+      "50": {
+        "countries": {
+          "Switzerland": 1,
+          "Sweden": 1
+        },
+        "total_countries": 2
+      },
+      "51": {
+        "countries": {
+          "Mexico": 1
+        },
+        "total_countries": 1
+      },
+      "52": {
+        "countries": {
+          "Brazil": 1
+        },
+        "total_countries": 1
+      },
+      "53": {
+        "countries": {
+          "China": 1
+        },
+        "total_countries": 1
+      }
+    },
+    "overall_country_frequencies": {
+      "United States": 22,
+      "United Kingdom": 3,
+      "Japan": 5,
+      "Canada": 6,
+      "Australia": 4,
+      "South Korea": 2,
+      "China": 6,
+      "St. Pierre and Miquelon": 2,
+      "Colombia": 3,
+      "Argentina": 1,
+      "Ecuador": 1,
+      "Brazil": 3,
+      "Mexico": 4,
+      "Chile": 2,
+      "Bangladesh": 1,
+      "Saudi Arabia": 1,
+      "Singapore": 1,
+      "Philippines": 3,
+      "India": 3,
+      "Nepal": 4,
+      "Taiwan": 1,
+      "Sri Lanka": 1,
+      "Indonesia": 1,
+      "Malaysia": 2,
+      "Hong Kong": 1,
+      "Greece": 1,
+      "Pakistan": 1,
+      "Spain": 1,
+      "Italy": 2,
+      "Guatemala": 1,
+      "El Salvador": 1,
+      "Honduras": 1,
+      "Tanzania": 1,
+      "Vietnam": 1,
+      "Sweden": 2,
+      "Germany": 1,
+      "Switzerland": 1
+    },
+    "extraction_method": "gliner"
+  }
+]

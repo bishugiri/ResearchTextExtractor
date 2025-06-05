@@ -1,5 +1,0 @@
-document_name,country_frequencies,total_countries,total_mentions
-countryspellcheck.pdf,['ESP:1'],1,1
-language test.pdf,[],0,0
-samplepaper.pdf,"['BRA:9', 'IND:5', 'CHN:4', 'JAM:4', 'RWA:2', 'COL:2', 'PER:2', 'VEN:2', 'NER:2']",9,32
-samplepaper2.pdf,"['BGD:3', 'PAK:3', 'MEX:2', 'IND:2', 'GHA:2', 'ECU:1', 'CHN:1', 'BRA:1', 'CHL:1', 'COL:1', 'ETH:1', 'KAZ:1', 'KEN:1', 'PHL:1', 'POL:1', 'RWA:1']",16,23

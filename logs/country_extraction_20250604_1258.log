@@ -1,0 +1,24 @@
+2025-06-04 12:58 - INFO - Starting country extraction process
+2025-06-04 12:58 - INFO - Processing 20 documents
+2025-06-04 12:58 - INFO - Found 6 unique countries in OCR-D25260752.json
+2025-06-04 12:58 - INFO - Found 28 unique countries in OCR-D697028.json
+2025-06-04 12:58 - INFO - Found 17 unique countries in OCR-D32875091.json
+2025-06-04 12:58 - INFO - Found 11 unique countries in OCR-D5796629.json
+2025-06-04 12:58 - INFO - Found 7 unique countries in OCR-D13576464.json
+2025-06-04 12:58 - INFO - Found 7 unique countries in OCR-D34385584.json
+2025-06-04 12:58 - INFO - Found 20 unique countries in OCR-D30352919.json
+2025-06-04 12:58 - INFO - Found 8 unique countries in OCR-D33780485.json
+2025-06-04 12:58 - INFO - Found 27 unique countries in OCR-D26744506.json
+2025-06-04 12:58 - INFO - Found 12 unique countries in OCR-D6525930.json
+2025-06-04 12:58 - INFO - Found 10 unique countries in OCR-D34173720.json
+2025-06-04 12:58 - INFO - Found 5 unique countries in OCR-D3401982.json
+2025-06-04 12:58 - INFO - Found 14 unique countries in OCR-D19874670.json
+2025-06-04 12:58 - INFO - Found 16 unique countries in OCR-D8980990.json
+2025-06-04 12:58 - INFO - Found 22 unique countries in OCR-D437919.json
+2025-06-04 12:58 - INFO - Found 7 unique countries in OCR-D31178056.json
+2025-06-04 12:58 - INFO - Found 10 unique countries in OCR-D17386101.json
+2025-06-04 12:58 - INFO - Found 18 unique countries in OCR-D14985485.json
+2025-06-04 12:58 - INFO - Found 19 unique countries in OCR-D697278.json
+2025-06-04 12:58 - INFO - Found 45 unique countries in OCR-D10354641.json
+2025-06-04 12:58 - INFO - CSV results saved to output/country_analysis_keyword.csv
+2025-06-04 12:58 - INFO - Total execution time: 12.77 seconds
