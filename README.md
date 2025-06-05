@@ -3,6 +3,7 @@
 This project provides a prefect based pipeline for (1) extracting text from pdfs or json files (2) extract country mentioned.
 
 Run pdf_to_text.py for extracting texts from the pdfs in the input folder
+
 Run json_to_text.py for extracting texts from the already existing json file (output from the mistral ocr)
 
 For country extraction there are two approaches:
