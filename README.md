@@ -70,16 +70,10 @@ pip install -r requirements.txt
    - Requires Python 3.10 or 3.11
    - Provides high-quality results by filtering out low-confidence predictions
 
-### Output
-
-The pipeline generates:
-1. CSV file: `output/country_extraction_results_{algorithm}.csv`
-2. JSON file: `output/country_extraction_results_{algorithm}.json`
-3. Detailed logs: `logs/country_extraction_{algorithm}_{timestamp}.log`
-
 ## Notes
 
 - The GLiNER algorithm requires Python 3.10 or 3.11 for compatibility
 - All algorithms process only English documents
 - Results include country ISO3 codes and mention frequencies
 - The GLiNER + CountryGuess approach may identify more country mentions but requires more processing time
+- Detail logs are provided in the log folders
